@@ -12,7 +12,7 @@
 //======================================================================
 module shift_registers_tb;
     reg clk = 0, rstn = 1;
-    always #5 clk = ~clk;                       // 100 MHz
+    always #5 clk = ~clk;                       // 100 MHz, artinya clock di-trigger setiap 5 ns, sehingga periode clock adalah 10 ns.
     integer i, n, err = 0;
     reg [3:0] data [0:4];
     reg [3:0] expect_v, seri;

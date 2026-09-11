@@ -1,0 +1,88 @@
+$date
+	Thu Sep 10 21:16:17 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_jkff_edge $end
+$var wire 1 ! QN $end
+$var wire 1 " Q $end
+$var reg 1 # CLK $end
+$var reg 1 $ J $end
+$var reg 1 % K $end
+$scope module uut $end
+$var wire 1 # CLK $end
+$var wire 1 $ J $end
+$var wire 1 % K $end
+$var wire 1 ! QN $end
+$var reg 1 " Q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+0#
+x"
+x!
+$end
+#5000
+1#
+#10000
+0#
+#12000
+1$
+#15000
+1#
+#16000
+0$
+#20000
+0#
+#25000
+1#
+#26000
+1%
+#30000
+0#
+#35000
+1!
+0"
+1#
+#36000
+1$
+#40000
+0#
+#45000
+0!
+1"
+1#
+#50000
+0#
+#55000
+1!
+0"
+1#
+#56000
+0$
+#60000
+0#
+#65000
+1#
+#66000
+0%
+#67000
+1$
+#69000
+0$
+#70000
+0#
+#75000
+1#
+#76000

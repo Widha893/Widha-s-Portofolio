@@ -63,25 +63,28 @@ module ripple_counter(
 
 
 // First flip flop
-t_ff FF0 (
+dff_t FF0 (
     .clk(clk),
-    .rst(rst),
+    .rstn(rst),
+    .d(~q[0]),
     .q(q[0])
 );
 
 
 // Second flip flop
-t_ff FF1 (
+dff_t FF1 (
     .clk(~q[0]),
-    .rst(rst),
+    .rstn(rst),
+    .d(~q[1]),
     .q(q[1])
 );
 
 
 // Third flip flop
-t_ff FF2 (
+dff_t FF2 (
     .clk(~q[1]),
-    .rst(rst),
+    .rstn(rst),
+    .d(~q[2]),
     .q(q[2])
 );
 

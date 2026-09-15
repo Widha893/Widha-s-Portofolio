@@ -1,0 +1,293 @@
+$date
+	Tue Sep 15 06:43:51 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module counter_timing_tb $end
+$var wire 3 ! qs [2:0] $end
+$var wire 3 " qr [2:0] $end
+$var wire 1 # dec0_s $end
+$var wire 1 $ dec0_r $end
+$var reg 1 % clk $end
+$var reg 1 & glitch_seen $end
+$var reg 1 ' measuring $end
+$var reg 1 ( rstn $end
+$var real 1 ) TCQ $end
+$var real 1 * TLOGIC $end
+$var real 1 + TSETUP $end
+$var real 1 , edge_time $end
+$var integer 32 - errors [31:0] $end
+$var real 1 . fmax_r3 $end
+$var real 1 / fmax_r8 $end
+$var real 1 0 fmax_sync $end
+$var real 1 1 glitch_start $end
+$var real 1 2 glitch_width $end
+$var integer 32 3 i [31:0] $end
+$var integer 32 4 nstates [31:0] $end
+$var real 1 5 tr0 $end
+$var real 1 6 tr1 $end
+$var real 1 7 tr2 $end
+$var real 1 8 ts0 $end
+$var real 1 9 ts1 $end
+$var real 1 : ts2 $end
+$scope module R $end
+$var wire 1 % clk $end
+$var wire 1 ( rst $end
+$var wire 3 ; q [2:0] $end
+$scope module FF0 $end
+$var wire 1 % clk $end
+$var wire 1 < d $end
+$var wire 1 ( rstn $end
+$var real 1 = TPD $end
+$var reg 1 > q $end
+$upscope $end
+$scope module FF1 $end
+$var wire 1 ? clk $end
+$var wire 1 @ d $end
+$var wire 1 ( rstn $end
+$var real 1 A TPD $end
+$var reg 1 B q $end
+$upscope $end
+$scope module FF2 $end
+$var wire 1 C clk $end
+$var wire 1 D d $end
+$var wire 1 ( rstn $end
+$var real 1 E TPD $end
+$var reg 1 F q $end
+$upscope $end
+$upscope $end
+$scope module S $end
+$var wire 1 % clk $end
+$var wire 1 ( rstn $end
+$var wire 1 G t0 $end
+$var wire 1 H t2 $end
+$var wire 1 I t1 $end
+$var wire 3 J q [2:0] $end
+$scope module F0 $end
+$var wire 1 % clk $end
+$var wire 1 K d $end
+$var wire 1 ( rstn $end
+$var real 1 L TPD $end
+$var reg 1 M q $end
+$upscope $end
+$scope module F1 $end
+$var wire 1 % clk $end
+$var wire 1 N d $end
+$var wire 1 ( rstn $end
+$var real 1 O TPD $end
+$var reg 1 P q $end
+$upscope $end
+$scope module F2 $end
+$var wire 1 % clk $end
+$var wire 1 Q d $end
+$var wire 1 ( rstn $end
+$var real 1 R TPD $end
+$var reg 1 S q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+r1 R
+r1 O
+r1 L
+r1 E
+r1 A
+r1 =
+$end
+#0
+$dumpvars
+xS
+xQ
+xP
+xN
+xM
+xK
+bx J
+xI
+xH
+1G
+xF
+xD
+xC
+xB
+x@
+x?
+x>
+x<
+bx ;
+r0 :
+r0 9
+r0 8
+r0 7
+r0 6
+r0 5
+b0 4
+bx 3
+r0 2
+r0 1
+r0 0
+r0 /
+r0 .
+b0 -
+r0 ,
+r2 +
+r1.5 *
+r1 )
+0(
+0'
+0&
+0%
+x$
+x#
+bx "
+bx !
+$end
+#1000
+0Q
+1K
+0N
+0H
+1?
+1<
+1C
+1@
+1D
+0I
+1#
+0M
+0P
+b0 !
+b0 J
+0S
+1$
+0>
+0B
+b0 "
+b0 ;
+0F
+#5000
+1%
+#8000
+1(
+#10000
+0%
+#15000
+1%
+#16000
+0K
+1N
+0?
+0<
+1I
+0#
+b1 !
+b1 J
+1M
+0$
+b1 "
+b1 ;
+1>
+#20000
+0%
+#25000
+1%
+#26000
+1?
+1<
+1K
+0I
+1$
+b0 "
+b0 ;
+0>
+1P
+0#
+b10 !
+b10 J
+0M
+#27000
+0C
+0@
+0$
+b10 "
+b10 ;
+1B
+#30000
+0%
+#35000
+1%
+#36000
+1Q
+0K
+1H
+0N
+0?
+0<
+1I
+b11 !
+b11 J
+1M
+b11 "
+b11 ;
+1>
+#40000
+1'
+0%
+#45000
+r45 ,
+1%
+#46000
+1?
+1<
+r46 5
+r46 :
+r46 9
+1K
+0H
+r46 8
+b1 4
+0I
+b10 "
+b10 ;
+0>
+1S
+0#
+0P
+b100 !
+b100 J
+0M
+#47000
+1C
+1@
+r47 6
+r47 1
+b10 4
+1$
+b0 "
+b0 ;
+0B
+#48000
+0D
+r48 7
+1&
+r1 2
+b11 4
+0$
+b100 "
+b100 ;
+1F
+#50000
+0%
+#55000
+1%
+r100 /
+r200 .
+r222.2222222222222 0
+b11 3
+0'

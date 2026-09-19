@@ -1,0 +1,124 @@
+$date
+	Thu Sep 17 10:41:32 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_mealy_1011_detector $end
+$var wire 1 ! Z $end
+$var reg 1 " X $end
+$var reg 1 # clk $end
+$var reg 1 $ rst $end
+$scope module uut $end
+$var wire 1 % D0 $end
+$var wire 1 & D1 $end
+$var wire 1 " X $end
+$var wire 1 ! Z $end
+$var wire 1 # clk $end
+$var wire 1 $ rst $end
+$var reg 1 ' Q0 $end
+$var reg 1 ( Q1 $end
+$upscope $end
+$scope task apply_x $end
+$var reg 1 ) b $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x)
+0(
+0'
+0&
+0%
+1$
+0#
+0"
+0!
+$end
+#5000
+1#
+#10000
+1%
+0#
+1"
+1)
+0$
+#15000
+1'
+1#
+#16000
+1&
+0"
+0)
+#20000
+0#
+#25000
+0&
+0%
+1(
+1#
+#26000
+1&
+1"
+1)
+#30000
+0#
+#35000
+1!
+1%
+0&
+0'
+1#
+#40000
+0#
+#45000
+0!
+1'
+0(
+1#
+#46000
+1&
+0"
+0)
+#50000
+0#
+#55000
+0&
+0%
+1(
+1#
+#56000
+1&
+1"
+1)
+#60000
+0#
+#65000
+1!
+1%
+0&
+0'
+1#
+#70000
+0#
+#75000
+0!
+1'
+0(
+1#
+#80000
+0#
+#85000
+1#
+#90000
+0#
+#95000
+1#
+#96000

@@ -1,0 +1,109 @@
+$date
+	Thu Sep 10 15:25:16 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module d_latch_tb $end
+$var wire 1 ! Q_N $end
+$var wire 1 " Q_G $end
+$var wire 1 # QN_N $end
+$var wire 1 $ QN_G $end
+$var wire 1 % QN $end
+$var wire 1 & Q $end
+$var reg 1 ' C $end
+$var reg 1 ( C_G $end
+$var reg 1 ) D $end
+$var reg 1 * D_G $end
+$var reg 1 + D_N $end
+$scope module DL $end
+$var wire 1 ' C $end
+$var wire 1 ) D $end
+$var wire 1 % QN $end
+$var reg 1 & Q $end
+$upscope $end
+$scope module DLG $end
+$var wire 1 ( C $end
+$var wire 1 * D $end
+$var wire 1 " Q $end
+$var wire 1 $ QN $end
+$var wire 1 , d_n $end
+$var wire 1 - r_n $end
+$var wire 1 . s_n $end
+$upscope $end
+$scope module DL_N $end
+$var wire 1 + D $end
+$var wire 1 ! Q $end
+$var wire 1 # QN $end
+$var wire 1 / d_n $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x/
+x.
+x-
+x,
+x+
+0*
+x)
+1(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#1000
+1,
+1.
+#2000
+0-
+#3000
+1$
+#4000
+0"
+#5000
+1*
+#6000
+0,
+0.
+#7000
+1-
+1"
+#8000
+0$
+#10000
+0+
+#11000
+1/
+1#
+#12000
+0!
+#15000
+1+
+#16000
+0/
+#17000
+1!
+#18000
+0#
+#20000
+1%
+0&
+0)
+1'
+#25000
+0%
+1&
+1)
+#30000

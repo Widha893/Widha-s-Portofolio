@@ -1,0 +1,962 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2025.02.15 15:40:20 =~=~=~=~=~=~=~=~=~=~=~=
+Time Stamp: 0
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1128
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1342
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1555
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1768
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1983
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2195
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2407
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2620
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3047
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3259
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3472
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3687
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3899
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4111
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4324
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4538
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4750
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4962
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5176
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5390
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5602
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5815
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6030
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6243
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6456
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6671
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6884
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 7096
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 7308
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 7523
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 7735
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7947
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 8159
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 8374
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 8587
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 8799
+Magnetometer Calibration Status: 3
+System Calibration Status: 0
+Time Stamp: 9011
+Magnetometer Calibration Status: 3
+System Calibration Status: 2
+Time Stamp: 9225
+Magnetometer Calibration Status: 3
+System Calibration Status: 3
+Time(s): 9.44 ; Disarmed Yaw: 0.00 ;  motor1_pwm: 0.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1080.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.50 ; Disarmed Yaw: -15.60 ;  motor1_pwm: 1013.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1101.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.55 ; Disarmed Yaw: -27.93 ;  motor1_pwm: 1030.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1135.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.61 ; Disarmed Yaw: -37.80 ;  motor1_pwm: 1058.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1139.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.66 ; Disarmed Yaw: -44.32 ;  motor1_pwm: 1090.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1117.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.72 ; Disarmed Yaw: -51.09 ;  motor1_pwm: 1123.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1087.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.77 ; Disarmed Yaw: -56.53 ;  motor1_pwm: 1155.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1049.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.83 ; Disarmed Yaw: -60.06 ;  motor1_pwm: 1180.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1020.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.88 ; Disarmed Yaw: -63.57 ;  motor1_pwm: 1195.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1001.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.94 ; Disarmed Yaw: -66.22 ;  motor1_pwm: 1202.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.99 ; Disarmed Yaw: -68.14 ;  motor1_pwm: 1202.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1009.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.05 ; Disarmed Yaw: -69.22 ;  motor1_pwm: 1189.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1034.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.10 ; Disarmed Yaw: -70.15 ;  motor1_pwm: 1154.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1089.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.16 ; Disarmed Yaw: -70.71 ;  motor1_pwm: 1122.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1147.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.21 ; Disarmed Yaw: -71.08 ;  motor1_pwm: 1097.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1208.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.27 ; Disarmed Yaw: -71.44 ;  motor1_pwm: 1089.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1247.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.32 ; Disarmed Yaw: -71.87 ;  motor1_pwm: 1096.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.38 ; Disarmed Yaw: -72.69 ;  motor1_pwm: 1113.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1243.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.43 ; Disarmed Yaw: -73.53 ;  motor1_pwm: 1123.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1223.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.49 ; Disarmed Yaw: -74.73 ;  motor1_pwm: 1133.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1192.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.54 ; Disarmed Yaw: -75.92 ;  motor1_pwm: 1149.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1156.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.60 ; Disarmed Yaw: -77.01 ;  motor1_pwm: 1157.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1133.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.65 ; Disarmed Yaw: -77.90 ;  motor1_pwm: 1162.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1116.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.71 ; Disarmed Yaw: -78.55 ;  motor1_pwm: 1165.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1102.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.76 ; Disarmed Yaw: -78.88 ;  motor1_pwm: 1167.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1093.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.82 ; Disarmed Yaw: -79.02 ;  motor1_pwm: 1160.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1089.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.87 ; Disarmed Yaw: -78.85 ;  motor1_pwm: 1155.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1089.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.93 ; Disarmed Yaw: -78.35 ;  motor1_pwm: 1154.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1088.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.98 ; Disarmed Yaw: -77.73 ;  motor1_pwm: 1149.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1089.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.04 ; Disarmed Yaw: -76.71 ;  motor1_pwm: 1148.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1092.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.09 ; Disarmed Yaw: -75.60 ;  motor1_pwm: 1146.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1104.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.15 ; Disarmed Yaw: -74.49 ;  motor1_pwm: 1150.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1119.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.20 ; Disarmed Yaw: -73.73 ;  motor1_pwm: 1157.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1131.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.26 ; Disarmed Yaw: -73.10 ;  motor1_pwm: 1159.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1148.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.31 ; Disarmed Yaw: -72.82 ;  motor1_pwm: 1141.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1153.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.37 ; Disarmed Yaw: -72.69 ;  motor1_pwm: 1139.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1151.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.42 ; Disarmed Yaw: -72.68 ;  motor1_pwm: 1140.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1154.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.48 ; Disarmed Yaw: -72.76 ;  motor1_pwm: 1135.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1156.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.53 ; Disarmed Yaw: -72.89 ;  motor1_pwm: 1134.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1153.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.59 ; Disarmed Yaw: -73.03 ;  motor1_pwm: 1136.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1142.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.64 ; Disarmed Yaw: -73.13 ;  motor1_pwm: 1144.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1133.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.70 ; Disarmed Yaw: -73.24 ;  motor1_pwm: 1148.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1127.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.75 ; Disarmed Yaw: -73.35 ;  motor1_pwm: 1148.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1126.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.81 ; Disarmed Yaw: -73.49 ;  motor1_pwm: 1159.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1117.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.86 ; Disarmed Yaw: -73.66 ;  motor1_pwm: 1178.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1091.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.92 ; Disarmed Yaw: -73.94 ;  motor1_pwm: 1195.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1063.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.97 ; Disarmed Yaw: -74.26 ;  motor1_pwm: 1195.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1057.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.03 ; Disarmed Yaw: -74.52 ;  motor1_pwm: 1160.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1099.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.08 ; Disarmed Yaw: -74.60 ;  motor1_pwm: 1125.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1145.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.14 ; Disarmed Yaw: -74.52 ;  motor1_pwm: 1078.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1211.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.19 ; Disarmed Yaw: -74.31 ;  motor1_pwm: 1067.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1240.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.25 ; Disarmed Yaw: -74.15 ;  motor1_pwm: 1098.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1216.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.30 ; Disarmed Yaw: -74.19 ;  motor1_pwm: 1152.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1153.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.36 ; Disarmed Yaw: -74.39 ;  motor1_pwm: 1168.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1117.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.41 ; Disarmed Yaw: -74.66 ;  motor1_pwm: 1169.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1097.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.47 ; Disarmed Yaw: -74.81 ;  motor1_pwm: 1164.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1089.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.52 ; Disarmed Yaw: -74.76 ;  motor1_pwm: 1153.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1096.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.58 ; Disarmed Yaw: -74.54 ;  motor1_pwm: 1142.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1104.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.63 ; Disarmed Yaw: -74.02 ;  motor1_pwm: 1126.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1123.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.69 ; Disarmed Yaw: -73.33 ;  motor1_pwm: 1114.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1134.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.74 ; Disarmed Yaw: -72.49 ;  motor1_pwm: 1114.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1139.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.80 ; Disarmed Yaw: -71.79 ;  motor1_pwm: 1120.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1136.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.85 ; Disarmed Yaw: -70.93 ;  motor1_pwm: 1125.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1132.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.91 ; Disarmed Yaw: -70.17 ;  motor1_pwm: 1131.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1128.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.96 ; Disarmed Yaw: -69.54 ;  motor1_pwm: 1132.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1128.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.02 ; Disarmed Yaw: -69.12 ;  motor1_pwm: 1129.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1135.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.07 ; Disarmed Yaw: -68.73 ;  motor1_pwm: 1123.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1144.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.13 ; Disarmed Yaw: -68.49 ;  motor1_pwm: 1120.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1153.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.18 ; Disarmed Yaw: -68.41 ;  motor1_pwm: 1117.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1161.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.24 ; Disarmed Yaw: -68.46 ;  motor1_pwm: 1111.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1170.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.29 ; Disarmed Yaw: -68.67 ;  motor1_pwm: 1110.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1174.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.35 ; Disarmed Yaw: -68.99 ;  motor1_pwm: 1117.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1163.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.40 ; Disarmed Yaw: -69.36 ;  motor1_pwm: 1128.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1147.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.46 ; Disarmed Yaw: -69.70 ;  motor1_pwm: 1131.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1138.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.51 ; Disarmed Yaw: -70.08 ;  motor1_pwm: 1138.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1123.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.57 ; Disarmed Yaw: -70.37 ;  motor1_pwm: 1153.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1094.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.62 ; Disarmed Yaw: -70.50 ;  motor1_pwm: 1163.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1079.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.68 ; Disarmed Yaw: -70.50 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1073.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.73 ; Disarmed Yaw: -70.39 ;  motor1_pwm: 1161.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1082.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.79 ; Disarmed Yaw: -70.21 ;  motor1_pwm: 1136.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1119.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.84 ; Disarmed Yaw: -70.07 ;  motor1_pwm: 1110.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1157.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.90 ; Disarmed Yaw: -69.97 ;  motor1_pwm: 1091.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1190.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.95 ; Disarmed Yaw: -70.04 ;  motor1_pwm: 1081.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1208.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.01 ; Disarmed Yaw: -70.31 ;  motor1_pwm: 1088.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1214.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.06 ; Disarmed Yaw: -70.85 ;  motor1_pwm: 1111.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1202.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.12 ; Disarmed Yaw: -71.55 ;  motor1_pwm: 1132.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1187.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.17 ; Disarmed Yaw: -72.63 ;  motor1_pwm: 1158.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1156.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.23 ; Disarmed Yaw: -73.77 ;  motor1_pwm: 1171.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1123.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.28 ; Disarmed Yaw: -74.71 ;  motor1_pwm: 1171.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1095.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.34 ; Disarmed Yaw: -75.15 ;  motor1_pwm: 1168.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1076.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.39 ; Disarmed Yaw: -75.20 ;  motor1_pwm: 1156.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1066.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.45 ; Disarmed Yaw: -74.61 ;  motor1_pwm: 1136.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1061.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.50 ; Disarmed Yaw: -73.33 ;  motor1_pwm: 1127.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1054.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.56 ; Disarmed Yaw: -71.83 ;  motor1_pwm: 1132.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1045.00 ;  motor4_pwm: 1000.00 ; 
+Tim ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.67 ; Disarmed Yaw: -67.10 ;  motor1_pwm: 1149.00 ;  motor2_Time(s): 14.78 ; Disarmed Yaw: -62.49 ;  motor1_pwm: 1144.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1042.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.83 ; Disarmed Yaw: -60.00 ;  motor1_pwm: 1137.00 ;  motor2_pwm: 1000.00 ;  motor3_pr2_pwm: 1000.00 ;  motor3_pwm: 1036.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.94 ; Disarmed Yaw: -55.66 ;  motor1_pwm: 1139.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1021.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.00 ; Disarmed Yaw: -53.34 ;  motor1_pwm: 1133.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1020.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.05 ; Disarmed Yaw: -51.12 ;  motor1_pwm: 1126.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.11 ; Disarmed Yaw: -49.08 ;  motor1_pwm: 1131.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.16 ; Disarmed Yaw: -47.58 ;  motor1_pwm: 1137.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1018.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.22 ; Disarmed Yaw: -45.89 ;  motor1_pwm: 1147.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1007.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.27 ; Disarmed Yaw: -44.51 ;  motor1_pwm: 1154.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.33 ; Disarmed Yaw: -43.67 ;  motor1_pwm: 1169.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.38 ; Disarmed Yaw: -42.99 ;  motor1_pwm: 1187.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.44 ; Disarmed Yaw: -42.76 ;  motor1_pwm: 1188.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.49 ; Disarmed Yaw: -42.86 ;  motor1_pwm: 1186.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.55 ; Disarmed Yaw: -43.05 ;  motor1_pwm: 1171.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.60 ; Disarmed Yaw: -43.03 ;  motor1_pwm: 1171.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.66 ; Disarmed Yaw: -42.59 ;  motor1_pwm: 1180.00 ;  motor2_pwm: 1003.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.71 ; Disarmed Yaw: -41.80 ;  motor1_pwm: 1179.00 ;  motor2_pwm: 1010.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.77 ; Disarmed Yaw: -40.69 ;  motor1_pwm: 1176.00 ;  motor2_pwm: 1015.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.82 ; Disarmed Yaw: -39.46 ;  motor1_pwm: 1175.00 ;  motor2_pwm: 1016.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.88 ; Disarmed Yaw: -37.54 ;  motor1_pwm: 1176.00 ;  motor2_pwm: 1016.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.93 ; Disarmed Yaw: -35.43 ;  motor1_pwm: 1167.00 ;  motor2_pwm: 1014.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.99 ; Disarmed Yaw: -33.64 ;  motor1_pwm: 1148.00 ;  motor2_pwm: 1015.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.04 ; Disarmed Yaw: -31.28 ;  motor1_pwm: 1147.00 ;  motor2_pwm: 1005.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.10 ; Disarmed Yaw: -29.12 ;  motor1_pwm: 1145.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.15 ; Disarmed Yaw: -27.42 ;  motor1_pwm: 1141.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.21 ; Disarmed Yaw: -26.17 ;  motor1_pwm: 1142.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.26 ; Disarmed Yaw: -25.32 ;  motor1_pwm: 1133.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.32 ; Disarmed Yaw: -24.71 ;  motor1_pwm: 1128.00 ;  motor2_pwm: 1009.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.37 ; Disarmed Yaw: -23.81 ;  motor1_pwm: 1126.00 ;  motor2_pwm: 1020.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.43 ; Disarmed Yaw: -22.58 ;  motor1_pwm: 1124.00 ;  motor2_pwm: 1016.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.48 ; Disarmed Yaw: -21.26 ;  motor1_pwm: 1118.00 ;  motor2_pwm: 1003.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.54 ; Disarmed Yaw: -20.38 ;  motor1_pwm: 1123.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.59 ; Disarmed Yaw: -19.60 ;  motor1_pwm: 1119.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.65 ; Disarmed Yaw: -19.05 ;  motor1_pwm: 1128.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.70 ; Disarmed Yaw: -18.72 ;  motor1_pwm: 1139.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.76 ; Disarmed Yaw: -18.65 ;  motor1_pwm: 1139.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.81 ; Disarmed Yaw: -18.86 ;  motor1_pwm: 1128.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.87 ; Disarmed Yaw: -19.34 ;  motor1_pwm: 1142.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.92 ; Disarmed Yaw: -19.98 ;  motor1_pwm: 1156.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.98 ; Disarmed Yaw: -20.51 ;  motor1_pwm: 1148.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.03 ; Disarmed Yaw: -21.28 ;  motor1_pwm: 1158.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.09 ; Disarmed Yaw: -22.49 ;  motor1_pwm: 1173.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.14 ; Disarmed Yaw: -24.22 ;  motor1_pwm: 1167.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1034.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.20 ; Disarmed Yaw: -26.11 ;  motor1_pwm: 1159.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1054.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.25 ; Disarmed Yaw: -29.19 ;  motor1_pwm: 1167.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1060.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.31 ; Disarmed Yaw: -33.39 ;  motor1_pwm: 1178.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1077.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.36 ; Disarmed Yaw: -38.32 ;  motor1_pwm: 1182.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1108.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.42 ; Disarmed Yaw: -43.94 ;  motor1_pwm: 1197.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1135.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.47 ; Disarmed Yaw: -48.90 ;  motor1_pwm: 1204.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1152.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.53 ; Disarmed Yaw: -55.46 ;  motor1_pwm: 1206.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1161.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.58 ; Disarmed Yaw: -61.98 ;  motor1_pwm: 1201.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1169.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.64 ; Disarmed Yaw: -67.13 ;  motor1_pwm: 1191.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1177.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.69 ; Disarmed Yaw: -73.12 ;  motor1_pwm: 1172.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1184.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.75 ; Disarmed Yaw: -78.34 ;  motor1_pwm: 1164.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1175.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.80 ; Disarmed Yaw: -82.66 ;  motor1_pwm: 1175.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1151.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.86 ; Disarmed Yaw: -86.14 ;  motor1_pwm: 1179.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1129.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.91 ; Disarmed Yaw: -88.28 ;  motor1_pwm: 1154.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1134.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 17.97 ; Disarmed Yaw: -89.98 ;  motor1_pwm: 1139.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1139.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.02 ; Disarmed Yaw: -90.70 ;  motor1_pwm: 1133.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1142.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.08 ; Disarmed Yaw: -90.53 ;  motor1_pwm: 1138.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1141.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.13 ; Disarmed Yaw: -89.94 ;  motor1_pwm: 1137.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1146.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.19 ; Disarmed Yaw: -88.89 ;  motor1_pwm: 1139.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1156.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.24 ; Disarmed Yaw: -87.90 ;  motor1_pwm: 1141.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1171.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.30 ; Disarmed Yaw: -86.73 ;  motor1_pwm: 1147.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1181.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.35 ; Disarmed Yaw: -85.87 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1182.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.41 ; Disarmed Yaw: -85.47 ;  motor1_pwm: 1176.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1180.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.46 ; Disarmed Yaw: -85.43 ;  motor1_pwm: 1179.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1174.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.52 ; Disarmed Yaw: -85.69 ;  motor1_pwm: 1176.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1167.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.57 ; Disarmed Yaw: -85.98 ;  motor1_pwm: 1173.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1161.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.63 ; Disarmed Yaw: -86.34 ;  motor1_pwm: 1164.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1166.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.68 ; Disarmed Yaw: -86.65 ;  motor1_pwm: 1163.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1176.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.74 ; Disarmed Yaw: -86.88 ;  motor1_pwm: 1162.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1176.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.79 ; Disarmed Yaw: -87.07 ;  motor1_pwm: 1163.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1158.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.85 ; Disarmed Yaw: -87.13 ;  motor1_pwm: 1164.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1163.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.90 ; Disarmed Yaw: -87.16 ;  motor1_pwm: 1168.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1163.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 18.96 ; Disarmed Yaw: -87.19 ;  motor1_pwm: 1167.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1160.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.01 ; Disarmed Yaw: -87.18 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1165.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.07 ; Disarmed Yaw: -87.12 ;  motor1_pwm: 1165.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1161.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.12 ; Disarmed Yaw: -87.02 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1162.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.18 ; Disarmed Yaw: -86.93 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1163.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.23 ; Disarmed Yaw: -86.85 ;  motor1_pwm: 1162.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1162.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.29 ; Disarmed Yaw: -86.75 ;  motor1_pwm: 1162.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1166.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.34 ; Disarmed Yaw: -86.68 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1159.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.40 ; Disarmed Yaw: -86.60 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1161.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.45 ; Disarmed Yaw: -86.54 ;  motor1_pwm: 1169.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1157.00 ;  motor4_pwm: 1000.00 ; 
+1155.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.56 ; Disarmed Yaw: -86.38 ;  motor1_pwm: 1163.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1163.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.62 ; Disarmed Yaw: -86.29 ;  motor1_pwm: 1165.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1160.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.67 ; Disarmed Yaw: -86.18 ;  motor1_pwm: 1164.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1159.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.73 ; Disarmed Yaw: -86.10 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1157.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.78 ; Disarmed Yaw: -86.00 ;  motor1_pwm: 1164.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1161.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.84 ; Disarmed Yaw: -85.92 ;  motor1_pwm: 1162.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1160.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.89 ; Disarmed Yaw: -85.85 ;  motor1_pwm: 1157.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1164.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 19.95 ; Disarmed Yaw: -85.75 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1156.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.00 ; Disarmed Yaw: -85.65 ;  motor1_pwm: 1167.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1157.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.06 ; Disarmed Yaw: -85.60 ;  motor1_pwm: 1162.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1161.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.11 ; Disarmed Yaw: -85.53 ;  motor1_pwm: 1160.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1160.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.17 ; Disarmed Yaw: -85.47 ;  motor1_pwm: 1166.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1159.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.22 ; Disarmed Yaw: -85.43 ;  motor1_pwm: 1163.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1159.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.28 ; Disarmed Yaw: -85.37 ;  motor1_pwm: 1163.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1158.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.33 ; Disarmed Yaw: -85.32 ;  motor1_pwm: 1161.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1159.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.39 ; Disarmed Yaw: -85.26 ;  motor1_pwm: 1165.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1156.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.44 ; Disarmed Yaw: -85.24 ;  motor1_pwm: 1167.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1156.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.50 ; Disarmed Yaw: -85.22 ;  motor1_pwm: 1165.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1155.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 20.55 ; Disarmed Yaw: -85.28 ;  motor1_pwm: 1165.00 ;  motor2_Time Stamp: 1342
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1555
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1768
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1983
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2195
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2407
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 2620
+Magnetometer Calibration Status: 1
+System Calibration Status: 1
+Time Stamp: 2835
+Magnetometer Calibration Status: 1
+System Calibration Status: 2
+Time Stamp: 3047
+Magnetometer Calibration Status: 2
+System Calibration Status: 2
+Time Stamp: 3259
+Magnetometer Calibration Status: 2
+System Calibration Status: 2
+Time Stamp: 3472
+Magnetometer Calibration Status: 2
+System Calibration Status: 2
+Time Stamp: 3687
+Magnetometer Calibration Status: 2
+System Calibration Status: 2
+Time Stamp: 3899
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 4111
+Magnetometer Calibration Status: 3
+System Calibration Status: 3
+Time(s): 4.33 ; Disarmed Yaw: 0.00 ;  motor1_pwm: 0.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1006.00 ; 
+Time(s): 4.38 ; Disarmed Yaw: -1.89 ;  motor1_pwm: 1127.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.44 ; Disarmed Yaw: -2.85 ;  motor1_pwm: 1153.00 ;  motor2_pwm: 1033.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.49 ; Disarmed Yaw: -2.99 ;  motor1_pwm: 1147.00 ;  motor2_pwm: 1066.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.55 ; Disarmed Yaw: -2.42 ;  motor1_pwm: 1117.00 ;  motor2_pwm: 1095.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.60 ; Disarmed Yaw: -1.50 ;  motor1_pwm: 1080.00 ;  motor2_pwm: 1100.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.66 ; Disarmed Yaw: 0.04 ;  motor1_pwm: 1047.00 ;  motor2_pwm: 1087.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.71 ; Disarmed Yaw: 1.56 ;  motor1_pwm: 1010.00 ;  motor2_pwm: 1058.00 ;  motor3_pwm: 1017.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.77 ; Disarmed Yaw: 2.56 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1039.00 ;  motor3_pwm: 1074.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.82 ; Disarmed Yaw: 3.35 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1004.00 ;  motor3_pwm: 1126.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.88 ; Disarmed Yaw: 3.39 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1155.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.93 ; Disarmed Yaw: 2.46 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1160.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 4.99 ; Disarmed Yaw: 0.90 ;  motor1_pwm: 1025.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1150.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.04 ; Disarmed Yaw: -1.82 ;  motor1_pwm: 1057.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1124.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.10 ; Disarmed Yaw: -5.33 ;  motor1_pwm: 1073.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1089.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.15 ; Disarmed Yaw: -9.04 ;  motor1_pwm: 1085.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1036.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.21 ; Disarmed Yaw: -11.87 ;  motor1_pwm: 1083.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.26 ; Disarmed Yaw: -14.88 ;  motor1_pwm: 1071.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.32 ; Disarmed Yaw: -17.12 ;  motor1_pwm: 1054.00 ;  motor2_pwm: 1001.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.37 ; Disarmed Yaw: -18.36 ;  motor1_pwm: 1041.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.43 ; Disarmed Yaw: -19.37 ;  motor1_pwm: 1027.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1016.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.48 ; Disarmed Yaw: -19.90 ;  motor1_pwm: 1016.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1034.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.54 ; Disarmed Yaw: -20.10 ;  motor1_pwm: 1015.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1045.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.59 ; Disarmed Yaw: -20.11 ;  motor1_pwm: 1015.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1049.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.65 ; Disarmed Yaw: -20.00 ;  motor1_pwm: 1017.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1050.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.70 ; Disarmed Yaw: -19.83 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1035.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.76 ; Disarmed Yaw: -19.60 ;  motor1_pwm: 1045.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1013.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.81 ; Disarmed Yaw: -19.33 ;  motor1_pwm: 1039.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1013.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.87 ; Disarmed Yaw: -18.91 ;  motor1_pwm: 1045.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1009.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.92 ; Disarmed Yaw: -18.54 ;  motor1_pwm: 1039.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1012.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 5.98 ; Disarmed Yaw: -18.03 ;  motor1_pwm: 1039.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1013.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.03 ; Disarmed Yaw: -17.51 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.09 ; Disarmed Yaw: -17.07 ;  motor1_pwm: 1036.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1029.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.14 ; Disarmed Yaw: -16.75 ;  motor1_pwm: 1036.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.20 ; Disarmed Yaw: -16.48 ;  motor1_pwm: 1036.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1027.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.25 ; Disarmed Yaw: -16.31 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1026.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.31 ; Disarmed Yaw: -16.14 ;  motor1_pwm: 1036.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.36 ; Disarmed Yaw: -16.03 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.42 ; Disarmed Yaw: -15.90 ;  motor1_pwm: 1035.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.47 ; Disarmed Yaw: -15.80 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.53 ; Disarmed Yaw: -15.70 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.58 ; Disarmed Yaw: -15.65 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.64 ; Disarmed Yaw: -15.60 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.69 ; Disarmed Yaw: -15.56 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.75 ; Disarmed Yaw: -15.52 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.80 ; Disarmed Yaw: -15.49 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.86 ; Disarmed Yaw: -15.47 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.91 ; Disarmed Yaw: -15.45 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 6.97 ; Disarmed Yaw: -15.42 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.02 ; Disarmed Yaw: -15.38 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.08 ; Disarmed Yaw: -15.35 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.13 ; Disarmed Yaw: -15.31 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.19 ; Disarmed Yaw: -15.29 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.24 ; Disarmed Yaw: -15.23 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.30 ; Disarmed Yaw: -15.17 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.35 ; Disarmed Yaw: -15.12 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.41 ; Disarmed Yaw: -15.08 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.46 ; Disarmed Yaw: -15.04 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.52 ; Disarmed Yaw: -15.03 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.57 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1035.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1021.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.63 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1036.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1021.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.68 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.74 ; Disarmed Yaw: -15.03 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.79 ; Disarmed Yaw: -15.03 ;  motor1_pwm: 1029.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.85 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1030.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.90 ; Disarmed Yaw: -15.00 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 7.96 ; Disarmed Yaw: -15.00 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.01 ; Disarmed Yaw: -14.99 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.07 ; Disarmed Yaw: -14.99 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1021.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.12 ; Disarmed Yaw: -15.00 ;  motor1_pwm: 1036.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1021.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.18 ; Disarmed Yaw: -15.01 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.23 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.29 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1028.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1026.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.34 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1030.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.40 ; Disarmed Yaw: -15.00 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.45 ; Disarmed Yaw: -15.01 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.51 ; Disarmed Yaw: -15.00 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.56 ; Disarmed Yaw: -15.00 ;  motor1_pwm: 1030.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.62 ; Disarmed Yaw: -14.99 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.67 ; Disarmed Yaw: -14.99 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.73 ; Disarmed Yaw: -14.98 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.78 ; Disarmed Yaw: -14.98 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.84 ; Disarmed Yaw: -14.98 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.89 ; Disarmed Yaw: -14.98 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 8.95 ; Disarmed Yaw: -14.98 ;  motor1_pwm: 1035.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.00 ; Disarmed Yaw: -14.98 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.06 ; Disarmed Yaw: -14.99 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.11 ; Disarmed Yaw: -15.00 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.17 ; Disarmed Yaw: -15.02 ;  motor1_pwm: 1034.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.22 ; Disarmed Yaw: -15.03 ; 00.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.28 ; Disarmed Yaw: -15.04 ;  motor1_pwm: 1035.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1021.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.33 ; Disarmed Yaw: -15.04 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.39 ; Disarmed Yaw: -15.04 ;  motor1_pwm: 1030.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.44 ; Disarmed Yaw: -15.03 ;  motor1_pwm: 1029.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1026.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.50 ; Disarmed Yaw: -15.01 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.55 ; Disarmed Yaw: -14.99 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.61 ; Disarmed Yaw: -14.98 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.66 ; Disarmed Yaw: -14.97 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.72 ; Disarmed Yaw: -14.97 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.77 ; Disarmed Yaw: -14.96 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.83 ; Disarmed Yaw: -14.95 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.88 ; Disarmed Yaw: -14.95 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.94 ; Disarmed Yaw: -14.95 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 9.99 ; Disarmed Yaw: -14.95 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.05 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s)r4_pwm: 1000.00 ; 
+Time(s): 10.16 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.21 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.27 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.32 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.38 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.43 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.49 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.54 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.60 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1033.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.65 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.71 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1023.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.76 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.82 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.87 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.93 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 10.98 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm:  
+Time(s): 11.15 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.20 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.26 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.31 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.37 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.42 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.48 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.53 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.59 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.64 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.70 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.75 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.81 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.86 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.92 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 11.97 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.03 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.08 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.14 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.19 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.25 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.30 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.36 ; Disarmed Yaw:Time(s): 12.41 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.47 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.52 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 103Time(s): 12.63 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.69 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.74 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 103Time(s): 12.85 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: Time(s): 12.91 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 12.96 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.02 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.07 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.13 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.18 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.24 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.29 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.35 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1032.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.40 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.46 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.51 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.57 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.62 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.68 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.73 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.79 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.84 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.90 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 13.95 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.01 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.06 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.12 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.17 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.23 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.28 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.34 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.39 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.45 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.50 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.56 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.61 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.67 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.72 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.78 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.83 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.89 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 14.94 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.00 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.05 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.49 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.55 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1025.00 ;  motTime(s): 15.66 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.71 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.88 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 15.93 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 4_pwm: 1000.00 ; 
+Time(s): 16.10 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.15 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.21 ; Disarmed Yaw: -14.94Time(s): 16.32 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1031.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.37 ; Disarmed Yaw: -14.94 ;  motor1_pwm: 1030.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1024.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.43 ; Disarmed Yaw: -14.92 ;  motor1_pwm: 103Time(s): 16.54 ; Disarmed Yaw: -14.70 ;  motor1_pwm: 1020.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: motor4_pwm: 1000.00 ; 
+Time(s): 16.59 ; Disarmed Yaw: -14.40 ;  motor1_pwm: 1022.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1011.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.65 ; Disarmed Yaw: -13.98 ;  motor1_pwm: 1024.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1001.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.70 ; Disarmed Yaw: -13.39 ;  motor1_pwm: 1023.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 16.76 ; Disarmed Yaw: -12.74 ;  motor1_pwm: 1017.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1004.00 ; 
+Time(s): 16.81 ; Disarmed Yaw: -11.69 ;  motor1_pwm: 1006.00 ;  motor2_pwm: 1004.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1009.00 ; 
+Time(s): 16.87 ; Disarmed Yaw: -10.38 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1021.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1017.00 ; 
+Time(s): 16.92 ; Disarmed Yaw: -8.64 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1032.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1025.00 ; 
+Time(s): 16.98 ; Disarmed Yaw: -6.90 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1036.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1032.00 ; 
+Time(s): 17.03 ; Disarmed Yaw: -4.39 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1038.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1040.00 ; 
+Time(s): 17.09 ; Disarmed Yaw: -2.18 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1043.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1044.00 ; 
+Time(s): 17.14 ; Disarmed Yaw: 0.83 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1060.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1045.00 ; 
+Time(s): 17.20 ; Disarmed Yaw: 4.17 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1077.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1050.00 ; 
+Time(s): 17.25 ; Disarmed Yaw: 7.82 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1082.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1055.00 ; 
+Time(s): 17.31 ; Disarmed Yaw: 11.55 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1090.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1063.00 ; 
+Time(s): 17.36 ; Disarmed Yaw: 14.70 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1101.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1068.00 ; 
+Time(s): 17.42 ; Disarmed Yaw: 18.86 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1111.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1072.00 ; 
+Time(s): 17.47 ; Disarmed Yaw: 23.13 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1114.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1077.00 ; 
+Time(s): 17.53 ; Disarmed Yaw: 26.57 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1119.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1082.00 ; 
+Time(s): 17.58 ; Disarmed Yaw: 30.85 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1125.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1088.00 ; 
+Time(s): 17.64 ; Disarmed Yaw: 35.09 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1130.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1094.00 ; 
+Time(s): 17.69 ; Disarmed Yaw: 39.27 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1135.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1098.00 ; 
+Time(s): 17.75 ; Disarmed Yaw: 43.22 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1136.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1101.00 ; 
+Time(s): 17.80 ; Dwm: 1102.00 ; 
+Time(s): 17.86 ; Disarmed Yaw: 49.42 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1134.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1102.00 ; 
+Time(s): 17.91 ; Disarmed Yaw: 52.29 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1130.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1099.00 ; 
+Time(s): 17.97 ; Disarmed Yaw: 54.62 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1124.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1095.00 ; 
+Time(s): 18.02 ; Disarmed Yaw: 56.43 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1115.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1092.00 ; 
+Time(s): 18.08 ; Disarmed Yaw: 57.41 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1110.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1085.00 ; 
+Time(s): 18.13 ; Disarmed Yaw: 58.09 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1102.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1080.00 ; 
+Time(s): 18.19 ; Disarmed Yaw: 58.17 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1095.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1072.00 ; 
+Time(s): 18.24 ; Disarmed Yaw: 57.74 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1096.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1064.00 ; 
+Time(s): 18.30 ; Disarmed Yaw: 56.74 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1097.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1055.00 ; 
+Time(s): 18.35 ; Disarmed Yaw: 55.30 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1095.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1048.00 ; 
+Time(s): 18.41 ; Disarmed Yaw: 53.54 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1091.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1044.00 ; 
+Time(s): 18.46 ; Disarmed Yaw: 51.43 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1087.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1040.00 ; 
+Time(s): 18.52 ; Disarmed Yaw: 49.48 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1085.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1037.00 ; 
+Time(s): 18.57 ; Disarmed Yaw: 46.92 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1082.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1037.00 ; 
+Time(s): 18.63 ; Disarmed Yaw:; Disarmed Yaw: 33.82 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1056.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1049.00 ; 
+Time(s): 18.96 ; Disarmed Yaw: 32.06 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1053.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1043.00 ; 
+Time(s): 19.01 ; Disarmed Yaw: 30.46 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1048.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1040.00 ; 
+Time(s): 19.07 ; Disarmed Yaw: 28.95 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1042.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1038.00 ; 
+Time(s): 19.12 ; Disarmed Yaw: 27.75 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1035.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1035.00 ; 
+Time(s): 19.18 ; Disarmed Yaw: 26.22 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1031.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1025.00 ; 
+Time(s): 19.23 ; Disarmed Yaw: 24.67 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1036.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1016.00 ; 
+Time(s): 19.29 ; Disarmed Yaw: 23.40 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1036.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1012.00 ; 
+Time(s): 19.34 ; Disarmed Yaw: 21.79 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1036.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1012.00 ; 
+Time(s): 19.40 ; Disarmed Yaw: 20.21 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1036.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1015.00 ; 
+Time(s): 19.45 ; Disarmed Yaw: 18.76 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1033.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1015.00 ; 
+Time(s): 19.51 ; Disarmed Ypwm: 1000.00 ;  motor2_pwm: 1028.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1015.00 ; 
+Time(s): 19.56 ; Disarmed Yaw: 16.36 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1023.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1012.00 ; 
+Time(s): 19.62 ; Disarmed Yaw: 15.08 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1024.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1012.00 ; 
+Time(s): 19.78 ; Disarmed Yaw: 12.25 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1035.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1015.00 ; 
+Time(s): 19.84 ; Disarmed Yaw: 11.62 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1038.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1019.00 ; 
+Time(s): 19.89 ; Disarmed Yaw: 1Time(s): 20.00 ; Disarmed Yaw: 11.27 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1033.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1032.00 ; 
+Time(s): 20.06 ; Disarmed Yaw: 11.57 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1026.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1036.00 ; 
+Time(s): 20.11 ; Disarmed Yaw: 11.97 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1015.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1035.00 ; 
+Time(s): 20.17 ; Disarmed Yaw: 12.35 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1011.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1026.00 ; 
+Time(s): 20.22 ; Disarmed Yaw: 12.55 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1010.00 ;  motowm: 1000.00 ;  motor2_pwm: 1026.00 ;  motor3_pwm: 10: 1031.00 ; 
+Time(s): 21.65 ; Disarmed Yaw: 6.33 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1026.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1035.00 ; 
+Time(s): 21.71 ; Di00 ;  motor2_pwm: 1033.00 ;  motor3_pwm: 1000.00 ; Time(s): 21.87 ; Disarmed Yaw: 11.96 ;  motor1_ppwm: 1000.00 ;  motor2_pwm: 1026.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1025.00 ; 
+Time(s): 44.26 ; Disarmed Yaw: 13.94 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1026.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1025.00 ; 026.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1025.00 ; 
+Timwm: 1023.00 ; 
+Time(s): 45.14 ; Disarmed Yaw: 0 ; 
+Time(s): 88.53 ; Armed Yaw: 6.76 ;  motor1_pwm: 1388.00 ;  motor2_pwm: 1403.00 ;  motor3_pwm: 1384.00 ;  motor4_pwm: 1403.00 ; 
+Time(s): 88.59 ; Armed Yaw: 6.50 ;  motor1_pTime(s): 88.70 ; Armed Yaw: 5.97 ;  motor1_pwme(s): 115.10 ; Armed Yaw: -9.33 ;  motor1_pwm: 1438.00 ;  mTime(s): 115.21 ; Armed Yaw: -10.19 ;  motor1_pwm: 1446.00 ;  motor2_pwm: 1403.00 ;  motor3_pwm: 1446.00 ;  motor4_pwm: 1409.00 ; 
+Time(s): 115.26 ; Armed Yaw: -10.55 ;  motor1_pwm: 1461.00 ;  motor2_pwm: 1419.00 ;  motor3_pwm: 1464.00 ;  motor4_pwm: 1424.00 ; 
+Time(s): 115.32 ; Armed Yaw: -10.78 ;  motor1_pwm: 1461.00 ;Time(s): 115.43 ; Armed Yaw: -11.16 ;  motor1_pwm: 1463.00 ;  motor2_pwm: 1422.00 ;  motor3_pwm: 14
+Time(s): 115.48 ; Armed Yaw: -11.26 ;  motor1_pwm: 1435.00 ;  motor2_pwm: 1393.00 ;  motor3_pwm: 1430.00 ;  motor4_pwm: 1381.00 ; 
+Time(s): 115.54 ; Armed Yaw: -11.30 ;  motor1_pwm: 1414.00 ;  motor2_pwm: 1373.00 ;  motor3_d Yaw: -11.48 ;  motor1_pwm: 1408.00 ;  motor2_pwm: 1375.00 ;  motor3_pwm: 1416.00 ;  motor4_pwm: 1Time(s): 115.70 ; Armed Yaw: -11.58 ;  motor1_pwm: 1403.00 ;  motor2_pwm: 1371.00 ;  motor3_pwm: 1413.00 ;  motor4_pwm: 1369.00 ; 
+Time(s): 115.76 ; Armed Yaw: -11.62 ;  motor1_pwm: 1395.00 ;  motor2_pwm: 1361.00 ;  motor3_pw  motor3_pwm: 1395.00 ;  motor4_pwm: 1357.00 ; 
+Time(s): 115.92 ; Armed Yaw: -11.63 ;  motor1_pwm: 1394.00 ;  motor2_pwm: 1354.00 ;  motor3_pwm: 1392.00 ;  motor4_pwm: 1356.00 ; 
+Time(s): 115.98 ; Armed Yaw: -11.57 ;  motor1_pwm: 1396.00 ;  motor2_pwm: 1353.00 ; ): 116.20 ; Armed Yaw: -11.04 ;  motor1_pwm: 1368.00 ;  motor2_pwm: 1327.00 ;  motor3_pwm: 1363.00 ;  motor4_pwm: 1337.00 ; 
+Time(s): 116.25 ; Armed Yaw: -10.91 ;  motor1_pwm: Time(s): 116.36 ; Armed Yaw: -10.53 ;  motor1_pwm: 1371.00 ;  motor2_pwm: 1331.00 ;  motor3_pwm: 1363.00 ;  motor4_pwm: 1339.00 ; 
+Time(s): 116.42 ; Armed Yaw: -10.32 ;  motor1_pwm: 1420.00 ;  motor2_pwm: 1380.00 ;  motor3_pwm: 1410.00 ;  motor4_pwm: 1421.00 ; 
+Time(s): 116.47 ; Armed Yaw: -10.15 ;  motor1_pwm: 1482.00 ;Time(s): 116.58 ; Armed Yaw: -9.69 ;  motor1_pwmwm: 1000.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1010.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 118.7pwm: 1000.00 ;  motor2_pwm: 1004.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1005.00 ; 
+Time(s): 121.26 ; Disarmed Yaw: 2.94 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1004.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1006.00 ; 
+Time(s): 121.31 ; Disarmed Yaw: 2.94 ;  motor1_pwm: 1000.0Time(s): 121.42 ; Disarmed Yaw: 2.94 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1004.00 ;  motor3_pwm: 1;  motor4_pwm: 1006.00 ; 
+Time(s): 121.48 ; Disarmed Yaw: 2.95 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1004.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1004.00 ; 
+Time(s): 121.53 ; Disarmed Yaw: 2.95 ;  motor1_pwm: 1000.00 ;  moTime(s): 121.64 ; Disarmed Yaw: 2.97 ;  motor1_p;  motor4_pwm: 1035.00 ; 
+Time(s): 121.92 ; Disarmed Yaw: 4.32 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1026.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1045.00 ; 
+Time(s): 121.97 ; Disarmed Yaw: 5.41 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1032.00 ;  motor3_pwm: 1000.00 ;  motor4_p;  motor4_pwm: 1066.00 ; 
+Time(s): 122.14 ; Dis00 ;  motor4_pwm: 1078.00 ; 
+Time(s): 122.25 ; Disarmed YaTime(s): 122.36 ; Disarmed Yaw: 22.40 ;  motor1_ 
+Time(s): 122.47 ; Disarmed Yaw: 29.33 ;  motor1_pwm: 100Time(s): 122.58 ; Disarmed Yaw: 34.70 ;  motor1_wm: 1439.00 ;  motor2_pwm: 1395.00 ;  motor3_pwm: 14 motor4_pwm: 1394.00 ; 
+Time(s): 155.14 ; Armed Yaw: -11.62 ;  motor1_pwm: 1443.00 ;  motor2_pwm: 1395.00 ;  motor3_pwm: 1422.00 ;  motor4_pwm: 1396.00 ; 
+Time(s): 155.19 ; Armed Yaw: -11.55 ;  motor1_pwm: 1444.00 ;  motor2Time(s): 155.30 ; Armed Yaw: -11.27 ;  motor1_pwm: 1422.00 ;  motor2_pwm: 1387.00 ;  motor3_pwm: 14Time(s): 155.36 ; Armed Yaw: -11.07 ;  motor1_pwm: 1415.00 ;  motor2_pwm: 1388.00 ;  motor3_pwm: 1427.00 ;  motor4_pwm: 1391.00 ; 
+Time(s): 155.41 ; Armed Yaw: -10.86 ;  motor1_pwm: 1410.00 ;  motor2_pwm: 1389.00 ;  motor3_pw1405.00 ;  motor2_pwm: 1387.00 ;  motor3_pwm: 1422.00 ;  motor4_pwm: 1388.00 ; 
+Time(s): 155.58 ; Armed Yaw: -9.87 ;  motor1_pwm: 1409.00 ;  motor2_pwm: 1386.00 ;  motor3_pwm: 1413.00 ;  motor4_pwm: 1388.00 ; 
+Time(s): 155.63 ; Armed Yaw: -9.47 ;  motor1_pwm: 1415.00 ;  motor2_pwm: 1385.00 ;  motor3_pwm: 1406.00 ;  motor motor4_pwm: 1389.00 ; 
+Time(s): 155.80 ; Armed Yaw: -8.29 ;  motor1_pwm: 1414.00 ;  motor2_pwm: 1379.00 ;  motor3_pwm: 1395.00 ;  motor4_pwm: 1388.00 ; 
+Time(s): 155.85 ; Armed Yaw: -7.96 ;  motor1_pwm: 1411.00 ;  motor2_pwm: 1379.00 ;  motor3_pwm: 1395.00 ;  motor4_pwm: 1387.00 ; 
+Time(s): 155.91 ; Armed Yaw: -7.47 ; Time(s): 156.02 ; Armed Yaw: -6.32 ;  motor1_pwm:rmed Yaw: 1.18 ;  motor1_pwm: 1388.00 ;  motor2_pwm: 1394.00 ;  motor3_pwm: 1388.00 ;  motor4_pwm: : 1385.00 ;  motor2_pwm: 1394.00 ;  motor3_pwm: 1390.00 ;  motor4_pwm: 1397.00 ; 
+Time(s): 157.23 ; Armed Yaw: 2.17 ;  motor1_pwm: 1386.00 ;  motor2_pwm: 1394.00 ;  motor3_pwm: 1393.00 ;  motor4_pwm: 1400.00 ; 
+Time(s): 157.28 ; Armed Yaw: 2.30 ;  motor1_pwm: 1387.00 ;  motoTime(s): 157.39 ; Armed Yaw: 2.47 ;  motor1_pwm: 1393.00 ;  motor2_pwm: 1399.00 ;  motor3_pwm: 1399.00 ;  motor4_pwm: 1406.00 ; 
+Time(s): 157.45 ; Armed Yaw: 2.52 ;  motor1_pwm: 1396.00 ;  motor2_pwm: 1400.00 ;  motor3_pwm: 1399.00 ;  motor4_pwm: 1405.00 ; 
+Time(s): 157.50 ; Armed Yaw: 2.53 ;  motor1_pwm: 1401.00 ;  motoTime(s): 157.61 ; Armed Yaw: 2.49 ;  motor1_pwm: 1405.00 ;  motor2_pwm: 1405.00 ;  motor3_pwm: 1396Time(s): 157.67 ; Armed Yaw: 2.42 ;  motor1_pwm: 1405.00 ;  motor2_pwm: 1405.00 ;  motor3_pwm: 1397.00 ;  motor4_pwm: 1405.00 ; 
+Time(s): 157.72 ; Armed Yaw: 2.30 ;  motor1_pwm: 1406.00 ;  motor2_pwm: 1407.00 ;  motor3_pwm: 1w: 2.00 ;  motor1_pwm: 1440.00 ;  motor2_pwm: 1440.00 ;  motor3_pwm: 1440.00 ;  motor4_pwm: 1443.00Time(s): 157.89 ; Armed Yaw: 1.85 ;  motor1_pwm: 1441.00 ;  motor2_pwm: 1442.00 ;  motor3_pwm: 1442.00 ;  motor4_pwm: 1443.00 ; 
+Time(s): 157.94 ; Armed Yaw: 1.66 ;  motor1_pwm: 1442.00 ;  motor2_pwm: 1441.00 ;  motor3_pwm: 1r3_pwm: 1430.00 ;  motor4_pwm: 1430.00 ; 
+Time(s): 158.11 ; Armed Yaw: 1.09 ;  motor1_pwm: 1429.00 ;  motor2_pwm: 1430.00 ;  motor3_pwm: 1430.00 ;  motor4_pwm: 1430.00 ; 
+Time(s): 158.16 ; Armed Yaw: 0.90 ;  motor1_pwm: 1429.00 ;  motor2_pwm: 1430.00 ;  motor3_pwm: 1430.00 ;  motor4_pwm: 1430.00 ; 
+Time(s): 158.22 ; Arme 
+Time(s): 158.33 ; Armed Yaw: 0.51 ;  motor1.38 ; Armed Yaw: 0.44 ;  motor1_pwm: 1426.00 ;  motor2_pwm: 1430.00 ;  motor3_pwm: 1431.00 ;  motor4_pwm: 1432.00 ; 
+otor1_pwm: 1419.00 ;  motor2_pwm: 1428.00 ;  motor3_pwm: 1420.00 ;  motor4_pwm: 1430.00 ; 
+Time(s): 158.88 ; Armed Yaw: 1.27 ;  motor1_pwm: 1419.00 ;  motor2_pwm: 1427.00 ;  moto9 ; Armed Yaw: 1.64 ;  motor1_pwm: 1416.00 ;  motor2_pwm: 1423.00 ;  motor3_pwm: 1415.00 ;  motor4_Time(s): 159.04 ; Armed Yaw: 1.82 ;  motor1_pwm: 1400.00 ;  motor2_pwm: 1406.00 ;  motor3_pwm: 1399.00 ;  motor4_pwm: 1407.00 ; 
+Time(s): 159.10 ; Armed Yaw: 1.96 ;  motor1_pwm: 1392.00 ;  motor2_pwm: 1396.00 ;  motor3_pwm: 13.00 ;  motor3_pwm: 1392.00 ;  motor4_pwm: 1395.00 ; 
+Time(s): 159.26 ; Armed Yaw: 2.10 ;  motor1_pwm: 1393.00 ;  motor2_pwm: 1393.00 ;  motor3_pwm: 1393.00 ;  motor4_pwm: 1394.00 ; 
+Time(s): 159.32 ; Armed Yaw: 2.04 ;  motor1_pwm: 1394.00 ;  motor2_pwm: 1392.00 ;  motor3_pwm: 1393.00 ;  motor4_pwm: 1393.00 ; 
+Time(s): 1m: 1390.00 ; 
+Time(s): 159.48 ; Armed Yaw: 1.54 ;  motor1_pwm: 1397.00 ;  motor2_pwm: 1385.00 ;  motor3_pwm: 1388.00 ;  motor4_pwm: 1390.00 ; 
+Time(s): 159.54 ; Armed Yaw: 1.26 ;  motor1_pwm: 1397.00 ;  motor2_pwm: 1383.00 ;  motor3_pwm: 1388.00 ;  motor4_pwm: 2.00 ; 
+Time(s): 160.69 ; Armed Yaw: -9.67 ;  motor1_pwm: 1421.00 ;  motor2_pwm: 1378.00 ;  motor3_pwm: 1431.00 ;  moime(s): 160.97 ; Armed Yaw: -11.81 ;  motor1_pwm: 1433.00 ;Time(s): 161.08 ; Armed Yaw: -12.58 ;  motor1_pwm: 1437.00 ;  motor2_pwm: 1385.00 ;  motor3_pwm: 14  motor4_pwm: 1389.00 ; 
+Time(s): 161.13 ; Armed Yaw: -12.92 ;  motor1_pwm: 1439.00 ;  motor2_pwm: 1387.00 ;  motor3_pwm: 1446.00 ;  motor4_pwm: 1395.00 ; 
+Time(s): 161.19 ; Armed Yaw: -13.17 ;  motor1_pwm: 1441.00 ;  motorTime(s): 161.30 ; Armed Yaw: -13.67 ;  motor1_pwm: 1448.00 ;  motor2_pwm: 1394.00 ;  motor3_pwm: 14Time(s): 161.35 ; Armed Yaw: -13.84 ;  motor1_pwm: 1449.00 ;  motor2_pwm: 1395.00 ;  motor3_pwm: 1446.00 ;  motor4_pwm: 1397.00 ; 
+Time(s): 161.41 ; Armed Yaw: -13.95 : 1406.00 ;  motor2_pwm: 1370.00 ;  motor3_pwm: 14 motor4_pwm: 1332.00 ; 
+Time(s): 162.29 ; Armed Yaw: -12.53 ;  motor1_pwm: 1354.00 ;  motor2_pwm: 1319.00 ;  motor3_pwm: 1359.00 ;  motor4_pwm: 1312.00 ; 
+Time(s): 162.34 ; Armed Yaw: -12.29 ;  motor1_pwm: 1351.00 ;  motor2_Time(s): 162.45 ; Armed Yaw: -11.85 ;  motor1_pwm: 1342.00 ;  motor2_pwm: 1310.00 ;  motor3_pwm: 13Time(s): 162.51 ; Armed Yaw: -11.60 ;  motor1_pwm: 1347.00 ;  motor2_pwm: 1310.00 ;  motor3_pwm: 1344.00 ;  motor4_pwm: 1307.00 ; 
+Time(s): 162.56 ; Armed Yaw: -11.40 ;  motor1_pwm: 1359.00 ;  motor2_pwm: 1319.00 ;  motor3_pw motor1_pwm: 1384.00 ;  motor2_pwm: 1338.00 ;  motor3_pwm: 1362.00 ;  motor4_pwm: 1349.00 ; 
+Time(s): 162.73 ; Armed Yaw: -10.67 ;  motor1_pwm: 1403.00 ;  motor2_pwm: 1357.00 ;  motor3_pwm: 1380.00 ;  motor4_pwm: 1361.00 ; 
+Time(s): 162.78 ; Armed Yaw: -10.44 ;  motor1_pwm: 1426.00 ;  motor2_pwm: 1380.00 ;  motor3_pwm: 1442.00 ;  motor4_pwm: 1423.00 ; 
+Time(s): 162.95 ; Armed Yaw: -9.86 ;  motor1_pwm: 1454.00 ;  motor2_pwm: 1408.00 ;  motor3_pwm: 1448.00 ;  motor4_pwm: 1426.00 ; 
+Time(s): 163.00 ; Armed Yaw: -9.70 ;  motor1_pwm: 1459.00 ;  motor2_pwm: 1418.00 ;  motor3_pwm: 1463.00 ;  motor4_pwm: 1435.00 ; 
+Time(s): 163.06 ; Armed Yaw: -Time(s): 163.17 ; Armed Yaw: -9.40 ;  motor1_pwm: 1443.00 ;  motor2_pwm: 1409.00 ;  motor3_pwm: 1448.00 ;  motor4_pwm: 1403.00 ; 
+Time(s): 163.22 ; Armed Yaw: -9.34 ;  motor1_pwm: 1432.00 ;  motor2_pwm: 1396.00 ;  motor3_pwm: 1428.00 ;  motor4_pwm: 1374.00 ; 
+Time(s): 163.28 ; Armed Yaw: -9.29 ;  motor1_pwm: 1405.00 ;  mTime(s): 163.39 ; Armed Yaw: -9.23 ;  motor1_pwm; Armed Yaw: -9.07 ;  motor1_pwm: 1376.00 ;  motor2_pwm: 1348.00 ;  motor3_pwm: 1389.00 ;  motor4_pwm: 1350.00 ; 
+Time(s): 163.50 ; Armed Yaw: -8.72 ;  motor1_pwm: 1360.00 ;  mTime(s): 163.61 ; Armed Yaw: -7.82 ;  motor1_pwm: 1414.00 ;  motor2_pwm: 1396.00 ;  motor3_pwm: 143Time(s): 163.66 ; Armed Yaw: -7.32 ;  motor1_pwm;  motor1_pwm: 1485.00 ;  motor2_pwm: 1451.00 ;  motor3_pwm:w: -5.94 ;  motor1_pwm: 1495.00 ;  motor2_pwm: 1;  motor1_pwm: 1463.00 ;  motor2_pwm: 1446.00 ;  motor3_pwm:or3_pwm: 1381.00 ;  motor4_pwm: 1366.00 ; 
+Timetor2_pwm: 1246.00 ;  motor3_pwm: 1211.00 ;  motor4_Time(s): 165.04 ; Armed Yaw: 2.35 ;  motor1_pwm:wm: 1000.00 ;  motor2_pwm: 1048.00 ;  motor3_pwm:  ;  motor4_pwm: 1050.00 ; 
+Time(s): 167.13 ; Dis_pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: Time(s): 172.19 ; Disarmed Yaw: 32.12 ;  motor1pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1061.00 ; 
+Time(s): 172.90 ; Disarmed Yaw: 32.12 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1061.00 ;pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1061.00 ; 
+Time(s): 173.12 ; Disarmed Yaw: 32.12 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1061.00 ;pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: Time(s): 173.34 ; Disarmed Yaw: 32.12 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1061.00 ; 
+Time(s): 173.40 ; Disarmed Yaw: 32.12 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor Yaw: 32.12 ;  motor1_pwm: 1000.00 ;  motor2_pwm1_pwm: 1000.00 ;  motor2_pwm: 1059.00 ;  motor3_pwm: 1060.00 ; 
+Time(s): 174.50 ; Disarmed Yaw: 32ime(s): 217.67 ; Armed Yaw: -20.86 ;  motor1_pwm: 1355.00 ;Time(s): 217.78 ; Armed Yaw: -21.52 ;  motor1_pw5.00 ;  motor3_pwm: 1360.00 ;  motor4_pwm: 1309.00 Time(s): 218.06 ; Armed Yaw: -21.24 ;  motor1_pw5 ;  motor1_pwm: 1228.00 ;  motor2_pwm: 1000.00 ;  motor3_pw0.00 ;  motor3_pwm: 1008.00 ;  motor4_pwm: 1000.
+Time(s): 219.98 ; Armed Yaw: -21.70 ;  motor1_pwm: 1040.00 ;Time(s): 220.09 ; Armed Yaw: -21.77 ;  motor1_pwm: 1041.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 10r4_pwm: 1000.00 ; 
+Time(s): 220.15 ; Armed Yar4_pwm: 1404.00 ; 
+Time(s): 285.38 ; Armed Yaw: 9.34 ;  motor1_pwm: 1364.00 ;  motor2_pwm: 1401.00m: 1382.00 ;  motor2_pwm: 1404.00 ;  motor3_pwm: 1374.00 ;  motor4_pwm: 1395.00 ; 
+Time(s): 285.87Disarmed Yaw: -121.72 ;  motor1_pwm: 1211.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1257.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 438.50 ; Disarmed Yaw: -130.11 ;  motor1_pwm: 1224.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1279.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 438.55 ; DisaTime(s): 438.66 ; Disarmed Yaw: -150.09 ;  motor1_pwm: 1229.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1337.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 438.72 ; Disarmed Yaw: -153.79 ;  motor1_pwm: 1225.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1354.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 438.77 ; Disarmed Yaw: -155.99 ;  motor1_pwTime(s): 438.88 ; Disarmed Yaw: -159.37 ;  motor1_pwm: 1233.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm3.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 438.94 ; Disarmed Yaw: -160.18 ;  motor1_pwm: 1235.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1373.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 438.99 ; Disarmed Yaw: -160.96 ;  motor1_pwm: 12Time(s): 439.10 ; Disarmed Yaw: -161.83 ;  motor1_pwm: 1266.00 ;  motor2_pwm: 1000.00 ;  motor3_pwmTime(s): 439.16 ; Disarmed Yaw: -161.93 ;  motor1_pwm: 1274.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1336.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 439.21 ; Disarmed Yaw: -161.91 ;  motor1_pwm: 1281.00 ;  motor2_pwm: 1000.00 ;  m1.79 ;  motor1_pwm: 1291.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1331.00 ;  motor4_pwm: 1000.00 ; Time(s): 439.38 ; Disarmed Yaw: -161.93 ;  motor1_pwm: 1300.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1330.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 439.43 ; Disarmed Yaw: -162.19 ;  motor1_pwm: 1298.00 ;  motor2_pwm: 1000.00 ;  mpwm: 1388.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 439.60 ; Disarmed Yaw: -164.90 ;  motor1_pwm: 1269.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1397.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 439.65 ; Disarmed Yaw: -166.47 ;  motor1_pwm: 1270.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1389.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 439.Time(s): 439.82 ; Disarmed Yaw: -170.14 ;  motor1_pwm: 1247.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1365.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 439.87 ; Disarmed Yaw: -170.50 ;  motor1_pwm: 1246.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1353.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 439.93 ; Disarmed Yaw: -170.43 ;  motor1_pwTime(s): 440.04 ; Disarmed Yaw: -169.06 ;  motor1_pwm: 1232.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1337.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.09 ; Disarmed Yaw: -167.76 ;  motor1_pwm: 1224.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1339.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.15 ; Disarmed Yaw: -166.22 ;  motor1_pwTime(s): 440.26 ; Disarmed Yaw: -162.73 ;  motor1_pwm: 1242.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm ; 
+Time(s): 440.31 ; Disarmed Yaw: -161.24 ;  motor1_pwm: 1249.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1319.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.37 ; Disarmed Yaw: -159.51 ;  motor1_pwm: 1254.00 ;  motor2_pwm: 1000.0med Yaw: -156.88 ;  motor1_pwm: 1264.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1354.00 ;  motor4_pwmTime(s): 440.53 ; Disarmed Yaw: -156.37 ;  motor1_pwm: 1271.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1365.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.59 ; Disarmed Yaw: -156.38 ;  motor1_pwm: 1277.00 ;  motor2_pwm: 1000.00 ;  m0 ;  motor3_pwm: 1394.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.75 ; Disarmed Yaw: -159.70 ;  motor1_pwm: 1272.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1392.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.81 ; Disarmed Yaw: -161.65 ;  motor1_pwm: 1265.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1386.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.86 ; Disarmed Yaw: -163.48 ;  motor1_pwm: 1258.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1367.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.92 ; Disarmed Yaw: -164.92 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1345.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 440.97 ; Disarmed Yaw: -165.59 ;  motor1_pwm: 1242.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1342.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.03 ; Disarmed Yaw: -165.91 ;  motor1_pwm: 1229.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1351.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.08 ; Disarmed Yaw: -165.82 ;  motor1_pwm: 1225.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1358.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.14 ; Disarmed Yaw: -165.45 ;  motor1_pwm: 1230.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1365.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.19 ; Disarmed Yaw: -165.05 ;  motor1_pwm: 1241.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1362.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.25 ; Disarmed Yaw: -164.52 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1353.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.30 ; Disarmed Yaw: -164.05 ;  motor1_pwm: 1268.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1341.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.36 ; Disarmed Yaw: -163.71 ;  motor1_pwm: 1279.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1337.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.41 ; Disarmed Yaw: -163.64 ;  motor1_pwm: 1282.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1344.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.47 ; Disarmed Yaw: -163.85 ;  motor1_pwm: 1285.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1347.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.52 ; Disarmed Yaw: -164.29 ;  motor1_pwm: 1290.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1345.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.58 ; Disarmed Yaw: -164.86 ;  motor1_pwm: 1285.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1366.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.63 ; Disarmed Yaw: -165.50 ;  motor1_pwm: 1284.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1379.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.69 ; Disarmed Yaw: -166.58 ;  motor1_pwm: 1280.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1390.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.74 ; Disarmed Yaw: -167.65 ;  motor1_pwm: 1274.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1402.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.80 ; Disarmed Yaw: -169.28 ;  motor1_pwm: 1273.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1406.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.85 ; Disarmed Yaw: -171.22 ;  motor1_pwm: 1279.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1397.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.91 ; Disarmed Yaw: -106.51 ;  motor1_pwm: 1159.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1263.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 441.96 ; Disarmed Yaw: -42.03 ;  motor1_pwm: 1037.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1128.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.02 ; Disarmed Yaw: 7.73 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1029.00 ;  motor3_pwm: 1022.00 ;  motor4_pwm: 1023.00 ; 
+Time(s): 442.07 ; Disarmed Yaw: 39.32 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1091.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1103.00 ; 
+Time(s): 442.13 ; Disarmed Yaw: 70.87 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1149.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1150.00 ; 
+Time(s): 442.18 ; Disarmed Yaw: 95.45 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1192.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1196.00 ; 
+Time(s): 442.24 ; Disarmed Yaw: 81.14 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1154.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1142.00 ; 
+Time(s): 442.29 ; Disarmed Yaw: 32.79 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1056.00 ;  motor3_pwm: 1000.00 ;  motor4_pwm: 1042.00 ; 
+Time(s): 442.35 ; Disarmed Yaw: -15.05 ;  motor1_pwm: 1000.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1076.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.40 ; Disarmed Yaw: -51.90 ;  motor1_pwm: 1037.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1146.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.46 ; Disarmed Yaw: -80.27 ;  motor1_pwm: 1094.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1196.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.51 ; Disarmed Yaw: -98.22 ;  motor1_pwm: 1132.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1226.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.57 ; Disarmed Yaw: -116.07 ;  motor1_pwm: 1171.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.62 ; Disarmed Yaw: -129.81 ;  motor1_pwm: 1201.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1270.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.68 ; Disarmed Yaw: -140.45 ;  motor1_pwm: 1227.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1283.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.73 ; Disarmed Yaw: -147.20 ;  motor1_pwm: 1246.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1283.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.79 ; Disarmed Yaw: -153.80 ;  motor1_pwm: 1263.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1294.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.84 ; Disarmed Yaw: -157.92 ;  motor1_pwm: 1272.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1304.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.90 ; Disarmed Yaw: -161.94 ;  motor1_pwm: 1278.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1315.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 442.95 ; Disarmed Yaw: -164.93 ;  motor1_pwm: 1281.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1314.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.01 ; Disarmed Yaw: -167.02 ;  motor1_pwm: 1282.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1311.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.06 ; Disarmed Yaw: -168.37 ;  motor1_pwm: 1281.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1303.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.12 ; Disarmed Yaw: -168.88 ;  motor1_pwm: 1276.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1298.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.17 ; Disarmed Yaw: -168.78 ;  motor1_pwm: 1262.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1307.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.23 ; Disarmed Yaw: -168.04 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1324.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.28 ; Disarmed Yaw: -167.08 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1316.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.34 ; Disarmed Yaw: -165.51 ;  motor1_pwm: 1257.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1300.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.39 ; Disarmed Yaw: -164.03 ;  motor1_pwm: 1263.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1295.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.45 ; Disarmed Yaw: -162.01 ;  motor1_pwm: 1271.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1280.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.50 ; Disarmed Yaw: -159.87 ;  motor1_pwm: 1277.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1266.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.56 ; Disarmed Yaw: -157.69 ;  motor1_pwm: 1279.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1261.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.61 ; Disarmed Yaw: -155.61 ;  motor1_pwm: 1276.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1264.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.67 ; Disarmed Yaw: -154.02 ;  motor1_pwm: 1272.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1270.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.72 ; Disarmed Yaw: -152.15 ;  motor1_pwm: 1269.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1271.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.78 ; Disarmed Yaw: -150.42 ;  motor1_pwm: 1270.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1267.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.83 ; Disarmed Yaw: -148.83 ;  motor1_pwm: 1273.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1260.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.89 ; Disarmed Yaw: -147.63 ;  motor1_pwm: 1275.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 443.94 ; Disarmed Yaw: -146.21 ;  motor1_pwm: 1275.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1257.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.00 ; Disarmed Yaw: -144.90 ;  motor1_pwm: 1275.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1253.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.05 ; Disarmed Yaw: -143.88 ;  motor1_pwm: 1275.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1249.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.11 ; Disarmed Yaw: -142.64 ;  motor1_pwm: 1276.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1239.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.16 ; Disarmed Yaw: -141.53 ;  motor1_pwm: 1274.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1240.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.22 ; Disarmed Yaw: -140.55 ;  motor1_pwm: 1269.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1250.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.27 ; Disarmed Yaw: -139.75 ;  motor1_pwm: 1261.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1266.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.33 ; Disarmed Yaw: -139.26 ;  motor1_pwm: 1257.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1275.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.38 ; Disarmed Yaw: -138.86 ;  motor1_pwm: 1257.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1280.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.44 ; Disarmed Yaw: -138.71 ;  motor1_pwm: 1261.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1280.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.49 ; Disarmed Yaw: -138.76 ;  motor1_pwm: 1266.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1277.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.55 ; Disarmed Yaw: -138.99 ;  motor1_pwm: 1272.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1273.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.60 ; Disarmed Yaw: -139.37 ;  motor1_pwm: 1278.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1270.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.66 ; Disarmed Yaw: -139.66 ;  motor1_pwm: 1281.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1270.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.71 ; Disarmed Yaw: -139.86 ;  motor1_pwm: 1283.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1272.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.77 ; Disarmed Yaw: -140.01 ;  motor1_pwm: 1267.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1284.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.82 ; Disarmed Yaw: -140.10 ;  motor1_pwm: 1268.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1280.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.88 ; Disarmed Yaw: -140.17 ;  motor1_pwm: 1267.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1278.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.93 ; Disarmed Yaw: -140.18 ;  motor1_pwm: 1265.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1279.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 444.99 ; Disarmed Yaw: -140.16 ;  motor1_pwm: 1267.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1278.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.04 ; Disarmed Yaw: -140.15 ;  motor1_pwm: 1267.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1270.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.10 ; Disarmed Yaw: -140.07 ;  motor1_pwm: 1262.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1265.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.15 ; Disarmed Yaw: -139.86 ;  motor1_pwm: 1260.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1264.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.21 ; Disarmed Yaw: -139.64 ;  motor1_pwm: 1261.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1267.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.26 ; Disarmed Yaw: -139.35 ;  motor1_pwm: 1260.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1266.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.32 ; Disarmed Yaw: -139.06 ;  motor1_pwm: 1258.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1265.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.37 ; Disarmed Yaw: -138.72 ;  motor1_pwm: 1256.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1264.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.43 ; Disarmed Yaw: -138.37 ;  motor1_pwm: 1258.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1267.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.48 ; Disarmed Yaw: -138.12 ;  motor1_pwm: 1260.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1260.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.54 ; Disarmed Yaw: -137.79 ;  motor1_pwm: 1254.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1263.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.59 ; Disarmed Yaw: -137.53 ;  motor1_pwm: 1257.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1262.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.65 ; Disarmed Yaw: -137.22 ;  motor1_pwm: 1255.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1260.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.70 ; Disarmed Yaw: -136.89 ;  motor1_pwm: 1255.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1259.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.76 ; Disarmed Yaw: -136.56 ;  motor1_pwm: 1255.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1259.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.81 ; Disarmed Yaw: -136.28 ;  motor1_pwm: 1254.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1258.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.87 ; Disarmed Yaw: -136.07 ;  motor1_pwm: 1254.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1258.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.92 ; Disarmed Yaw: -135.83 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1257.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 445.98 ; Disarmed Yaw: -135.61 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1257.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.03 ; Disarmed Yaw: -135.46 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1257.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.09 ; Disarmed Yaw: -135.28 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1256.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.14 ; Disarmed Yaw: -135.14 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1256.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.20 ; Disarmed Yaw: -135.01 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1256.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.25 ; Disarmed Yaw: -134.90 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1256.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.31 ; Disarmed Yaw: -134.82 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.36 ; Disarmed Yaw: -134.74 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.42 ; Disarmed Yaw: -134.67 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.47 ; Disarmed Yaw: -134.59 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.53 ; Disarmed Yaw: -134.53 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.58 ; Disarmed Yaw: -134.46 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.64 ; Disarmed Yaw: -134.40 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1255.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.69 ; Disarmed Yaw: -134.36 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.75 ; Disarmed Yaw: -134.29 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.80 ; Disarmed Yaw: -134.24 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.86 ; Disarmed Yaw: -134.20 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.91 ; Disarmed Yaw: -134.17 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 446.97 ; Disarmed Yaw: -134.15 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.02 ; Disarmed Yaw: -134.13 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.08 ; Disarmed Yaw: -134.11 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.13 ; Disarmed Yaw: -134.11 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.19 ; Disarmed Yaw: -134.10 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.24 ; Disarmed Yaw: -134.09 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.30 ; Disarmed Yaw: -134.08 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.35 ; Disarmed Yaw: -134.08 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.41 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.46 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.52 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.57 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.63 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.68 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.74 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.79 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.85 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.90 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 447.96 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.01 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.07 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.12 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.18 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.23 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.29 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.34 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.40 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.45 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.51 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.56 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.62 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.67 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.73 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.78 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.84 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.89 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 448.95 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.00 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.06 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.11 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.17 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.22 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.28 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.33 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.39 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.44 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.50 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.55 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.61 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.66 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.72 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.77 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.83 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.88 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.94 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 449.99 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.05 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.10 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.16 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.21 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.27 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.32 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.38 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.43 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.49 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.54 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.60 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.65 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.71 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.76 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.82 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.87 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.93 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 450.98 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.04 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.09 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.15 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.20 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.26 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.31 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.37 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.42 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.48 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.53 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.59 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.64 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.70 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.75 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.81 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.86 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.92 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 451.97 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.03 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1250.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.08 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.14 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.19 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.25 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.30 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.36 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.41 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.47 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.52 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.58 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.63 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.69 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.74 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.80 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.85 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.91 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 452.96 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.02 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.07 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.13 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.18 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.24 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.29 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.35 ; Disarmed Yaw: -134.06 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1251.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.40 ; Disarmed Yaw: -134.04 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.46 ; Disarmed Yaw: -134.03 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.51 ; Disarmed Yaw: -134.03 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.57 ; Disarmed Yaw: -134.03 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.62 ; Disarmed Yaw: -134.03 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.68 ; Disarmed Yaw: -134.03 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.73 ; Disarmed Yaw: -134.02 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1251.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.79 ; Disarmed Yaw: -134.02 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.84 ; Disarmed Yaw: -134.02 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.90 ; Disarmed Yaw: -134.01 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 453.95 ; Disarmed Yaw: -134.01 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1253.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.01 ; Disarmed Yaw: -134.01 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1251.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.06 ; Disarmed Yaw: -134.01 ;  motor1_pwm: 1251.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.12 ; Disarmed Yaw: -134.01 ;  motor1_pwm: 1254.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.17 ; Disarmed Yaw: -134.04 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1251.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.23 ; Disarmed Yaw: -134.05 ;  motor1_pwm: 1252.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.28 ; Disarmed Yaw: -134.07 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1253.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.34 ; Disarmed Yaw: -134.08 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.39 ; Disarmed Yaw: -134.09 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1252.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.45 ; Disarmed Yaw: -134.10 ;  motor1_pwm: 1253.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1254.00 ;  motor4_pwm: 1000.00 ; 
+Time(s): 454.50 ; Disarmed Yaw: -134.12 ;  motor1_pwm: 1235.00 ;  motor2_pwm: 1000.00 ;  motor3_pwm: 1240.00 ;  motor4_pwm: 1000.00 ; 

@@ -1,0 +1,34 @@
+syntax = "proto2";
+
+package HWIL;
+
+message msg {
+    message SensorData {
+        required double orieantation_w = 1;
+        required double orieantation_x = 2;
+        required double orieantation_y = 3;
+        required double orieantation_z = 4;
+        required double angular_vel_x = 5;
+        required double angular_vel_y = 6;
+        required double angular_vel_z = 7;
+        required double altitude = 8;
+    }
+    
+    message ControlData {
+        required double torque_x = 1;
+        required double torque_y = 2;
+        required double torque_z = 3;
+        required double total_force = 4;
+    }
+
+    message Command {
+        required double roll = 1;
+        required double pitch = 2;
+        required double yaw = 3;
+    }
+
+    optional ControlData controls = 1;
+    optional SensorData sensors = 2;
+    optional Command command = 3;
+
+}

@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "string": "cpp",
+    "limits": "cpp",
+    "*.inc": "cpp",
+    "functional": "cpp",
+    "cmath": "cpp"
+  },
+  "ros.distro": "humble"
+}

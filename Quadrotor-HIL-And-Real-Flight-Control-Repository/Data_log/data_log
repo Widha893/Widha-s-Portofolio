@@ -1,0 +1,1877 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2025.02.06 12:11:15 =~=~=~=~=~=~=~=~=~=~=~=
+Time Stamp: 1713
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1926
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2138
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2350
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2564
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2777
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2989
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3201
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3416
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3629
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3841
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4053
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4268
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4481
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4693
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4905
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5120
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5333
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5545
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5757
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5972
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6184
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6396
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6608
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 6823
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 7036
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7248
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7460
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7674
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7887
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 8099
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 8311
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 8526
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 8739
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 8951
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 9163
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 9377
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 9590
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 9802
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 10014
+Magnetometer Calibration Status: 2
+System Calibration Status: 1
+Time Stamp: 10229
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 10442
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 10654
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 10866
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 11081
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 11294
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 11506
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 11718
+Magnetometer Calibration Status: 3
+System Calibration Status: 3
+Roll: 3.56 Pitch: 19.43 Yaw: -43.94 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1402.00
+ ch_throttle: 1501
+Roll: 4.69 Pitch: 19.81 Yaw: -45.25 motor1_pwm: 1592.00 motor2_pwm: 1592.00 motor3_pwm: 1410.00 motor4_pwm: 1410.00
+ ch_throttle: 1501
+Roll: 6.56 Pitch: 21.43 Yaw: -48.75 motor1_pwm: 1616.00 motor2_pwm: 1616.00 motor3_pwm: 1386.00 motor4_pwm: 1371.00
+ ch_throttle: 1501
+Roll: 7.81 Pitch: 23.12 Yaw: -53.25 motor1_pwm: 1624.00 motor2_pwm: 1624.00 motor3_pwm: 1378.00 motor4_pwm: 1391.00
+ ch_throttle: 1501
+Roll: 5.56 Pitch: 25.43 Yaw: -57.00 motor1_pwm: 1548.00 motor2_pwm: 1548.00 motor3_pwm: 1454.00 motor4_pwm: 1471.00
+ ch_throttle: 1501
+Roll: 1.69 Pitch: 28.00 Yaw: -60.25 motor1_pwm: 1509.00 motor2_pwm: 1509.00 motor3_pwm: 1493.00 motor4_pwm: 1493.00
+ ch_throttle: 1501
+Roll: -2.81 Pitch: 29.12 Yaw: -62.19 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -7.31 Pitch: 28.37 Yaw: -62.88 motor1_pwm: 1505.00 motor2_pwm: 1505.00 motor3_pwm: 1497.00 motor4_pwm: 1501.00
+ ch_throttle: 1501
+Roll: -10.25 Pitch: 27.12 Yaw: -61.50 motor1_pwm: 1500.00 motor2_pwm: 1500.00 motor3_pwm: 1502.00 motor4_pwm: 1500.00
+ ch_throttle: 1501
+Roll: -11.56 Pitch: 26.31 Yaw: -60.00 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -11.50 Pitch: 24.37 Yaw: -55.25 motor1_pwm: 1532.00 motor2_pwm: 1532.00 motor3_pwm: 1470.00 motor4_pwm: 1449.00
+ ch_throttle: 1501
+Roll: -8.94 Pitch: 22.62 Yaw: -52.06 motor1_pwm: 1587.00 motor2_pwm: 1587.00 motor3_pwm: 1415.00 motor4_pwm: 1389.00
+ ch_throttle: 1501
+Roll: -5.62 Pitch: 20.87 Yaw: -50.50 motor1_pwm: 1629.00 motor2_pwm: 1629.00 motor3_pwm: 1373.00 motor4_pwm: 1375.00
+ ch_throttle: 1501
+Roll: -2.56 Pitch: 18.87 Yaw: -49.81 motor1_pwm: 1627.00 motor2_pwm: 1627.00 motor3_pwm: 1375.00 motor4_pwm: 1379.00
+ ch_throttle: 1501
+Roll: -1.00 Pitch: 16.25 Yaw: -50.75 motor1_pwm: 1596.00 motor2_pwm: 1596.00 motor3_pwm: 1406.00 motor4_pwm: 1431.00
+ ch_throttle: 1501
+Roll: -1.69 Pitch: 12.31 Yaw: -52.38 motor1_pwm: 1535.00 motor2_pwm: 1535.00 motor3_pwm: 1467.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -2.25 Pitch: 9.68 Yaw: -54.00 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1476.00
+ ch_throttle: 1501
+Roll: -1.50 Pitch: 8.31 Yaw: -56.50 motor1_pwm: 1552.00 motor2_pwm: 1552.00 motor3_pwm: 1450.00 motor4_pwm: 1445.00
+ ch_throttle: 1501
+Roll: -0.62 Pitch: 7.93 Yaw: -58.38 motor1_pwm: 1551.00 motor2_pwm: 1551.00 motor3_pwm: 1451.00 motor4_pwm: 1451.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 7.25 Yaw: -59.88 motor1_pwm: 1530.00 motor2_pwm: 1530.00 motor3_pwm: 1472.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 6.06 Yaw: -60.94 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 5.37 Yaw: -61.31 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.81 Pitch: 4.06 Yaw: -60.81 motor1_pwm: 1511.00 motor2_pwm: 1511.00 motor3_pwm: 1491.00 motor4_pwm: 1494.00
+ ch_throttle: 1501
+Roll: -0.88 Pitch: 3.50 Yaw: -59.88 motor1_pwm: 1506.00 motor2_pwm: 1506.00 motor3_pwm: 1496.00 motor4_pwm: 1497.00
+ ch_throttle: 1501
+Roll: -0.88 Pitch: 3.56 Yaw: -58.69 motor1_pwm: 1507.00 motor2_pwm: 1507.00 motor3_pwm: 1495.00 motor4_pwm: 1492.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.00 Yaw: -57.63 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 4.37 Yaw: -57.13 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 4.81 Yaw: -56.94 motor1_pwm: 1511.00 motor2_pwm: 1511.00 motor3_pwm: 1491.00 motor4_pwm: 1491.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.00 Yaw: -57.06 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.06 Yaw: -57.19 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.12 Yaw: -57.38 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.37 Yaw: -57.38 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.37 Yaw: -57.38 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 5.31 Yaw: -57.50 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 5.18 Yaw: -57.75 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 4.93 Yaw: -58.06 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.81 Pitch: 4.56 Yaw: -58.31 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1491.00
+ ch_throttle: 1501
+Roll: -0.94 Pitch: 4.18 Yaw: -58.31 motor1_pwm: 1510.00 motor2_pwm: 1510.00 motor3_pwm: 1492.00 motor4_pwm: 1493.00
+ ch_throttle: 1501
+Roll: -0.94 Pitch: 4.06 Yaw: -58.13 motor1_pwm: 1511.00 motor2_pwm: 1511.00 motor3_pwm: 1491.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 4.25 Yaw: -57.94 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.31 Yaw: -57.94 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.81 Pitch: 4.12 Yaw: -58.06 motor1_pwm: 1510.00 motor2_pwm: 1510.00 motor3_pwm: 1492.00 motor4_pwm: 1492.00
+ ch_throttle: 1501
+Roll: -0.81 Pitch: 3.93 Yaw: -58.06 motor1_pwm: 1510.00 motor2_pwm: 1510.00 motor3_pwm: 1492.00 motor4_pwm: 1491.00
+ ch_throttle: 1501
+Roll: -0.81 Pitch: 3.81 Yaw: -57.81 motor1_pwm: 1511.00 motor2_pwm: 1511.00 motor3_pwm: 1491.00 motor4_pwm: 1491.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 3.81 Yaw: -57.44 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 3.93 Yaw: -57.13 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.62 Pitch: 4.12 Yaw: -57.00 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1491.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.18 Yaw: -57.00 motor1_pwm: 1510.00 motor2_pwm: 1510.00 motor3_pwm: 1492.00 motor4_pwm: 1491.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.25 Yaw: -57.00 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.43 Yaw: -57.00 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.62 Yaw: -56.94 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.81 Yaw: -56.88 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1491.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 4.75 Yaw: -56.75 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 5.00 Yaw: -56.81 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.75 Pitch: 5.37 Yaw: -56.88 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.75 Yaw: -56.81 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.62 Pitch: 5.75 Yaw: -56.56 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.56 Yaw: -56.31 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.69 Pitch: 5.31 Yaw: -55.94 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.62 Pitch: 5.43 Yaw: -55.88 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 5.75 Yaw: -56.13 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.87 Yaw: -56.56 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.75 Yaw: -57.00 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.43 Yaw: -57.25 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.18 Yaw: -57.19 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.12 Yaw: -56.94 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 5.25 Yaw: -56.38 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 5.37 Yaw: -56.00 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 5.50 Yaw: -55.81 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 5.50 Yaw: -55.88 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 5.37 Yaw: -56.06 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 5.18 Yaw: -56.31 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 5.18 Yaw: -56.50 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 5.37 Yaw: -56.63 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 5.56 Yaw: -56.75 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 5.56 Yaw: -56.94 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 5.37 Yaw: -57.13 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 5.12 Yaw: -57.31 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 5.06 Yaw: -57.38 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 5.31 Yaw: -57.19 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 5.43 Yaw: -56.88 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 5.43 Yaw: -56.63 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 5.25 Yaw: -56.50 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 5.00 Yaw: -56.50 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 4.81 Yaw: -56.56 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 4.81 Yaw: -56.56 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 4.87 Yaw: -56.38 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 4.87 Yaw: -56.13 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 4.81 Yaw: -56.00 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 4.81 Yaw: -56.00 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 5.12 Yaw: -56.25 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 5.56 Yaw: -56.63 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 5.93 Yaw: -57.06 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 6.25 Yaw: -57.75 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 6.37 Yaw: -58.19 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 6.37 Yaw: -58.44 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.25 Yaw: -58.50 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 6.12 Yaw: -58.56 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.06 Yaw: -58.63 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.00 Yaw: -58.69 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.18 Yaw: -58.69 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.43 Yaw: -58.50 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 6.68 Yaw: -58.38 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 7.00 Yaw: -58.31 motor1_pwm: 1520.00 motor2_pwm: 1520.00 motor3_pwm: 1482.00 motor4_pwm: 1482.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 7.06 Yaw: -58.38 motor1_pwm: 1520.00 motor2_pwm: 1520.00 motor3_pwm: 1482.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 7.00 Yaw: -58.25 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 6.87 Yaw: -58.00 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 6.87 Yaw: -57.69 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 6.87 Yaw: -57.44 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 6.93 Yaw: -57.38 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 6.93 Yaw: -57.44 motor1_pwm: 1520.00 motor2_pwm: 1520.00 motor3_pwm: 1482.00 motor4_pwm: 1482.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 6.62 Yaw: -57.38 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 6.31 Yaw: -57.13 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 6.06 Yaw: -56.75 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 6.06 Yaw: -56.44 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 6.12 Yaw: -56.25 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 6.37 Yaw: -56.38 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 6.37 Yaw: -56.56 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.31 Yaw: -56.75 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.25 Yaw: -56.88 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.31 Yaw: -56.81 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.37 Yaw: -56.56 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 6.31 Yaw: -56.38 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 6.06 Yaw: -56.19 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 5.93 Yaw: -56.13 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1488.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 5.75 Yaw: -56.06 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 5.62 Yaw: -55.81 motor1_pwm: 1513.00 motor2_pwm: 1513.00 motor3_pwm: 1489.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.43 Yaw: -55.50 motor1_pwm: 1512.00 motor2_pwm: 1512.00 motor3_pwm: 1490.00 motor4_pwm: 1490.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.37 Yaw: -55.19 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 5.56 Yaw: -55.06 motor1_pwm: 1514.00 motor2_pwm: 1514.00 motor3_pwm: 1488.00 motor4_pwm: 1489.00
+ ch_throttle: 1501
+Roll: -0.62 Pitch: 5.81 Yaw: -55.19 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 6.00 Yaw: -55.25 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 6.06 Yaw: -55.25 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 6.00 Yaw: -55.13 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 5.93 Yaw: -55.00 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 5.87 Yaw: -55.06 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 5.87 Yaw: -55.19 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 5.93 Yaw: -55.19 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.62 Pitch: 6.12 Yaw: -55.19 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.62 Pitch: 6.31 Yaw: -55.13 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 6.43 Yaw: -55.06 motor1_pwm: 1520.00 motor2_pwm: 1520.00 motor3_pwm: 1482.00 motor4_pwm: 1482.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 6.37 Yaw: -55.13 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 6.06 Yaw: -55.19 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 5.81 Yaw: -55.38 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.50 Pitch: 5.75 Yaw: -55.44 motor1_pwm: 1515.00 motor2_pwm: 1515.00 motor3_pwm: 1487.00 motor4_pwm: 1487.00
+ ch_throttle: 1501
+Roll: -0.56 Pitch: 5.93 Yaw: -55.38 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1486.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 6.68 Yaw: -55.25 motor1_pwm: 1521.00 motor2_pwm: 1521.00 motor3_pwm: 1481.00 motor4_pwm: 1479.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 7.43 Yaw: -55.31 motor1_pwm: 1522.00 motor2_pwm: 1522.00 motor3_pwm: 1480.00 motor4_pwm: 1481.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 7.81 Yaw: -55.31 motor1_pwm: 1518.00 motor2_pwm: 1518.00 motor3_pwm: 1484.00 motor4_pwm: 1483.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 7.87 Yaw: -55.44 motor1_pwm: 1523.00 motor2_pwm: 1523.00 motor3_pwm: 1479.00 motor4_pwm: 1479.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 7.68 Yaw: -55.50 motor1_pwm: 1523.00 motor2_pwm: 1523.00 motor3_pwm: 1479.00 motor4_pwm: 1481.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 7.18 Yaw: -55.50 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.44 Pitch: 6.81 Yaw: -55.63 motor1_pwm: 1520.00 motor2_pwm: 1520.00 motor3_pwm: 1482.00 motor4_pwm: 1481.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.56 Yaw: -56.00 motor1_pwm: 1522.00 motor2_pwm: 1522.00 motor3_pwm: 1480.00 motor4_pwm: 1482.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.50 Yaw: -56.19 motor1_pwm: 1517.00 motor2_pwm: 1517.00 motor3_pwm: 1485.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.81 Yaw: -56.06 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1482.00
+ ch_throttle: 1501
+Roll: -0.13 Pitch: 7.75 Yaw: -55.63 motor1_pwm: 1524.00 motor2_pwm: 1524.00 motor3_pwm: 1478.00 motor4_pwm: 1478.00
+ ch_throttle: 1501
+Roll: -0.13 Pitch: 8.18 Yaw: -55.25 motor1_pwm: 1521.00 motor2_pwm: 1521.00 motor3_pwm: 1481.00 motor4_pwm: 1482.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 7.93 Yaw: -55.06 motor1_pwm: 1521.00 motor2_pwm: 1521.00 motor3_pwm: 1481.00 motor4_pwm: 1481.00
+ ch_throttle: 1501
+Roll: -0.19 Pitch: 7.56 Yaw: -55.06 motor1_pwm: 1521.00 motor2_pwm: 1521.00 motor3_pwm: 1481.00 motor4_pwm: 1481.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 7.06 Yaw: -55.19 motor1_pwm: 1519.00 motor2_pwm: 1519.00 motor3_pwm: 1483.00 motor4_pwm: 1485.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 6.81 Yaw: -55.13 motor1_pwm: 1516.00 motor2_pwm: 1516.00 motor3_pwm: 1486.00 motor4_pwm: 1484.00
+ ch_throttle: 1501
+Roll: -0.37 Pitch: 7.18 Yaw: -54.94 motor1_pwm: 1520.00 motor2_pwm: 1520.00 motor3_pwm: 1482.00 motor4_pwm: 1482.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 7.50 Yaw: -54.75 motor1_pwm: 1521.00 motor2_pwm: 1521.00 motor3_pwm: 1481.00 motor4_pwm: 1481.00
+ ch_throttle: 1501
+Roll: -0.31 Pitch: 7.68 Yaw: -54.81 motor1_pwm: 1520.00 motor2_pwm: 1520.00 motor3_pwm: 1482.00 motor4_pwm: 1480.00
+ ch_throttle: 1501
+Roll: -0.25 Pitch: 7.68 Yaw: -54.75 motor1_pwm: 1524.00 motor2_pwm: 1524.00 motor3Time Stamp: 0
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1075
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1287
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1499
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1713
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 1926
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2138
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2350
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2565
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2777
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 2989
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3201
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3416
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3629
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 3841
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4053
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4267
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4480
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4692
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 4904
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5119
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5331
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5543
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5755
+Magnetometer Calibration Status: 0
+System Calibration Status: 0
+Time Stamp: 5970
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 6183
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 6395
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 6607
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 6821
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7034
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7246
+Magnetometer Calibration Status: 1
+System Calibration Status: 0
+Time Stamp: 7458
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 7673
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 7885
+Magnetometer Calibration Status: 2
+System Calibration Status: 0
+Time Stamp: 8097
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 8309
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 8523
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 8736
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 8948
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 9160
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 9375
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 9588
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 9800
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 10012
+Magnetometer Calibration Status: 2
+System Calibration Status: 3
+Time Stamp: 10227
+Magnetometer Calibration Status: 3
+System Calibration Status: 3
+Roll: -14.38 Pitch: 15.75 Yaw: -54.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -10.13 Pitch: 18.68 Yaw: -48.81 motor1_pwm: 1084.00 motor2_pwm: 1084.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -5.87 Pitch: 21.12 Yaw: -45.44 motor1_pwm: 1124.00 motor2_pwm: 1124.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -1.75 Pitch: 23.25 Yaw: -43.19 motor1_pwm: 1141.00 motor2_pwm: 1141.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.25 Pitch: 23.75 Yaw: -42.38 motor1_pwm: 1130.00 motor2_pwm: 1130.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 3.00 Pitch: 22.81 Yaw: -43.25 motor1_pwm: 1115.00 motor2_pwm: 1115.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 4.44 Pitch: 22.00 Yaw: -45.63 motor1_pwm: 1120.00 motor2_pwm: 1120.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 6.25 Pitch: 22.06 Yaw: -50.38 motor1_pwm: 1127.00 motor2_pwm: 1127.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 6.44 Pitch: 22.00 Yaw: -53.63 motor1_pwm: 1095.00 motor2_pwm: 1095.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 4.12 Pitch: 21.37 Yaw: -59.88 motor1_pwm: 1060.00 motor2_pwm: 1060.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 22.06 Yaw: -64.12 motor1_pwm: 1024.00 motor2_pwm: 1024.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -2.00 Pitch: 22.18 Yaw: -66.06 motor1_pwm: 1012.00 motor2_pwm: 1012.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -4.62 Pitch: 21.56 Yaw: -66.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1008.00
+ ch_throttle: 1000
+Roll: -8.25 Pitch: 20.31 Yaw: -66.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1023.00 motor4_pwm: 1026.00
+ ch_throttle: 1000
+Roll: -11.13 Pitch: 19.25 Yaw: -65.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1026.00 motor4_pwm: 1028.00
+ ch_throttle: 1000
+Roll: -14.00 Pitch: 17.81 Yaw: -63.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1022.00 motor4_pwm: 1014.00
+ ch_throttle: 1000
+Roll: -15.25 Pitch: 17.06 Yaw: -61.31 motor1_pwm: 1003.00 motor2_pwm: 1003.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -15.25 Pitch: 16.81 Yaw: -57.50 motor1_pwm: 1024.00 motor2_pwm: 1024.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -14.06 Pitch: 16.68 Yaw: -54.56 motor1_pwm: 1053.00 motor2_pwm: 1053.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -10.94 Pitch: 16.25 Yaw: -50.25 motor1_pwm: 1073.00 motor2_pwm: 1073.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -7.06 Pitch: 15.93 Yaw: -47.31 motor1_pwm: 1109.00 motor2_pwm: 1109.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -3.19 Pitch: 15.87 Yaw: -46.06 motor1_pwm: 1132.00 motor2_pwm: 1132.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.69 Pitch: 14.75 Yaw: -45.63 motor1_pwm: 1130.00 motor2_pwm: 1130.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 3.87 Pitch: 12.12 Yaw: -47.19 motor1_pwm: 1088.00 motor2_pwm: 1088.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 4.75 Pitch: 10.62 Yaw: -49.13 motor1_pwm: 1064.00 motor2_pwm: 1064.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 4.37 Pitch: 9.93 Yaw: -52.56 motor1_pwm: 1030.00 motor2_pwm: 1030.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 2.81 Pitch: 9.68 Yaw: -54.88 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1006.00 motor4_pwm: 1006.00
+ ch_throttle: 1000
+Roll: 1.19 Pitch: 8.31 Yaw: -56.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.25 Pitch: 7.31 Yaw: -56.63 motor1_pwm: 1019.00 motor2_pwm: 1019.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.44 Pitch: 7.43 Yaw: -56.88 motor1_pwm: 1024.00 motor2_pwm: 1024.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.12 Pitch: 8.12 Yaw: -56.81 motor1_pwm: 1011.00 motor2_pwm: 1011.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.12 Pitch: 11.43 Yaw: -57.31 motor1_pwm: 1025.00 motor2_pwm: 1025.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.44 Pitch: 14.12 Yaw: -58.19 motor1_pwm: 1048.00 motor2_pwm: 1048.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.12 Pitch: 15.25 Yaw: -58.63 motor1_pwm: 1036.00 motor2_pwm: 1036.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.81 Pitch: 15.50 Yaw: -58.75 motor1_pwm: 1034.00 motor2_pwm: 1034.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.81 Pitch: 15.12 Yaw: -58.75 motor1_pwm: 1042.00 motor2_pwm: 1042.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.94 Pitch: 14.18 Yaw: -58.69 motor1_pwm: 1041.00 motor2_pwm: 1041.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 13.00 Yaw: -58.63 motor1_pwm: 1027.00 motor2_pwm: 1027.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 12.31 Yaw: -58.75 motor1_pwm: 1024.00 motor2_pwm: 1024.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 12.56 Yaw: -59.31 motor1_pwm: 1034.00 motor2_pwm: 1034.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 13.37 Yaw: -60.06 motor1_pwm: 1046.00 motor2_pwm: 1046.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 13.75 Yaw: -60.88 motor1_pwm: 1042.00 motor2_pwm: 1042.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 13.25 Yaw: -61.13 motor1_pwm: 1031.00 motor2_pwm: 1031.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 12.25 Yaw: -61.44 motor1_pwm: 1035.00 motor2_pwm: 1035.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 11.75 Yaw: -61.25 motor1_pwm: 1029.00 motor2_pwm: 1029.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 11.43 Yaw: -61.06 motor1_pwm: 1032.00 motor2_pwm: 1032.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 11.56 Yaw: -60.69 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 11.50 Yaw: -59.44 motor1_pwm: 1034.00 motor2_pwm: 1034.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.88 Pitch: 10.62 Yaw: -58.25 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 9.68 Yaw: -57.81 motor1_pwm: 1022.00 motor2_pwm: 1022.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 9.62 Yaw: -58.25 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 10.43 Yaw: -59.38 motor1_pwm: 1032.00 motor2_pwm: 1032.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 10.56 Yaw: -60.44 motor1_pwm: 1036.00 motor2_pwm: 1036.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 10.56 Yaw: -61.50 motor1_pwm: 1027.00 motor2_pwm: 1027.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 11.12 Yaw: -62.44 motor1_pwm: 1031.00 motor2_pwm: 1031.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 11.31 Yaw: -63.06 motor1_pwm: 1035.00 motor2_pwm: 1035.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 10.87 Yaw: -63.06 motor1_pwm: 1027.00 motor2_pwm: 1027.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 9.75 Yaw: -62.44 motor1_pwm: 1025.00 motor2_pwm: 1025.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 8.37 Yaw: -61.13 motor1_pwm: 1019.00 motor2_pwm: 1019.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 7.50 Yaw: -59.69 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 7.18 Yaw: -58.94 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 7.06 Yaw: -58.44 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 7.06 Yaw: -58.50 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 7.18 Yaw: -58.88 motor1_pwm: 1019.00 motor2_pwm: 1019.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 7.25 Yaw: -59.38 motor1_pwm: 1021.00 motor2_pwm: 1021.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 7.25 Yaw: -59.94 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 7.00 Yaw: -60.44 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 6.81 Yaw: -60.63 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 6.68 Yaw: -60.56 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 6.81 Yaw: -60.31 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 7.00 Yaw: -59.88 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 7.12 Yaw: -59.50 motor1_pwm: 1019.00 motor2_pwm: 1019.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 7.00 Yaw: -59.13 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 6.62 Yaw: -58.88 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 6.25 Yaw: -58.94 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 5.93 Yaw: -59.25 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.75 Yaw: -59.63 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.81 Yaw: -60.00 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 6.00 Yaw: -60.06 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 6.25 Yaw: -60.13 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 6.43 Yaw: -60.25 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 6.62 Yaw: -60.56 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 6.43 Yaw: -60.44 motor1_pwm: 1012.00 motor2_pwm: 1012.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.81 Yaw: -59.25 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 6.25 Yaw: -58.00 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 7.87 Yaw: -57.31 motor1_pwm: 1030.00 motor2_pwm: 1030.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 8.50 Yaw: -57.13 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 8.75 Yaw: -57.06 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 9.43 Yaw: -57.19 motor1_pwm: 1022.00 motor2_pwm: 1022.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 10.06 Yaw: -57.25 motor1_pwm: 1033.00 motor2_pwm: 1033.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 10.31 Yaw: -57.19 motor1_pwm: 1025.00 motor2_pwm: 1025.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 10.18 Yaw: -57.13 motor1_pwm: 1025.00 motor2_pwm: 1025.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 9.81 Yaw: -57.19 motor1_pwm: 1030.00 motor2_pwm: 1030.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 9.25 Yaw: -57.31 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.06 Pitch: 8.43 Yaw: -57.56 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.06 Pitch: 8.06 Yaw: -57.81 motor1_pwm: 1021.00 motor2_pwm: 1021.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 8.00 Yaw: -57.88 motor1_pwm: 1023.00 motor2_pwm: 1023.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 8.12 Yaw: -57.69 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 8.25 Yaw: -57.38 motor1_pwm: 1021.00 motor2_pwm: 1021.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 8.37 Yaw: -57.13 motor1_pwm: 1022.00 motor2_pwm: 1022.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 8.25 Yaw: -56.94 motor1_pwm: 1021.00 motor2_pwm: 1021.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 8.00 Yaw: -56.88 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 7.68 Yaw: -56.88 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 7.31 Yaw: -56.81 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 7.18 Yaw: -56.81 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 7.12 Yaw: -56.75 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 7.12 Yaw: -56.75 motor1_pwm: 1019.00 motor2_pwm: 1019.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 7.06 Yaw: -56.81 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 6.87 Yaw: -56.88 motor1_pwm: 1019.00 motor2_pwm: 1019.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 6.81 Yaw: -56.88 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 6.75 Yaw: -56.88 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 6.81 Yaw: -56.88 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 6.87 Yaw: -56.88 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 6.87 Yaw: -56.94 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 6.81 Yaw: -56.94 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 6.50 Yaw: -56.88 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.06 Pitch: 6.43 Yaw: -56.88 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 6.50 Yaw: -56.75 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 6.50 Yaw: -56.69 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 6.50 Yaw: -56.75 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 6.56 Yaw: -56.94 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 6.43 Yaw: -57.00 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 6.43 Yaw: -57.19 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.06 Pitch: 7.00 Yaw: -57.25 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 8.31 Yaw: -57.06 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 10.25 Yaw: -56.69 motor1_pwm: 1025.00 motor2_pwm: 1025.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 12.50 Yaw: -56.25 motor1_pwm: 1030.00 motor2_pwm: 1030.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 15.56 Yaw: -55.81 motor1_pwm: 1035.00 motor2_pwm: 1035.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 18.31 Yaw: -55.56 motor1_pwm: 1047.00 motor2_pwm: 1047.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 22.37 Yaw: -55.44 motor1_pwm: 1054.00 motor2_pwm: 1054.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 26.31 Yaw: -55.31 motor1_pwm: 1063.00 motor2_pwm: 1063.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.06 Pitch: 29.18 Yaw: -55.44 motor1_pwm: 1071.00 motor2_pwm: 1071.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.00 Pitch: 30.75 Yaw: -55.44 motor1_pwm: 1082.00 motor2_pwm: 1082.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 33.31 Yaw: -55.38 motor1_pwm: 1085.00 motor2_pwm: 1085.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.37 Pitch: 35.00 Yaw: -55.44 motor1_pwm: 1087.00 motor2_pwm: 1087.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 36.50 Yaw: -55.75 motor1_pwm: 1094.00 motor2_pwm: 1094.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: 38.25 Yaw: -56.13 motor1_pwm: 1102.00 motor2_pwm: 1102.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 39.56 Yaw: -56.38 motor1_pwm: 1107.00 motor2_pwm: 1107.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.81 Pitch: 40.94 Yaw: -56.50 motor1_pwm: 1105.00 motor2_pwm: 1105.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 42.44 Yaw: -56.50 motor1_pwm: 1109.00 motor2_pwm: 1109.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.94 Pitch: 44.37 Yaw: -56.56 motor1_pwm: 1118.00 motor2_pwm: 1118.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 45.69 Yaw: -56.50 motor1_pwm: 1119.00 motor2_pwm: 1119.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.94 Pitch: 46.94 Yaw: -56.38 motor1_pwm: 1121.00 motor2_pwm: 1121.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -1.00 Pitch: 47.31 Yaw: -56.31 motor1_pwm: 1120.00 motor2_pwm: 1120.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.94 Pitch: 47.19 Yaw: -56.19 motor1_pwm: 1122.00 motor2_pwm: 1122.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.94 Pitch: 46.00 Yaw: -56.19 motor1_pwm: 1131.00 motor2_pwm: 1131.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 44.12 Yaw: -56.31 motor1_pwm: 1122.00 motor2_pwm: 1122.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.94 Pitch: 41.62 Yaw: -56.50 motor1_pwm: 1116.00 motor2_pwm: 1116.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.81 Pitch: 37.87 Yaw: -56.44 motor1_pwm: 1109.00 motor2_pwm: 1109.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: 34.50 Yaw: -56.50 motor1_pwm: 1100.00 motor2_pwm: 1100.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 29.87 Yaw: -56.63 motor1_pwm: 1096.00 motor2_pwm: 1096.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 25.62 Yaw: -56.63 motor1_pwm: 1070.00 motor2_pwm: 1070.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.56 Pitch: 19.81 Yaw: -56.50 motor1_pwm: 1057.00 motor2_pwm: 1057.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.44 Pitch: 14.50 Yaw: -56.56 motor1_pwm: 1050.00 motor2_pwm: 1050.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.31 Pitch: 10.18 Yaw: -56.75 motor1_pwm: 1034.00 motor2_pwm: 1034.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.37 Pitch: 7.31 Yaw: -57.06 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 1.75 Yaw: -58.31 motor1_pwm: 1011.00 motor2_pwm: 1011.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: -2.38 Yaw: -59.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1002.00 motor4_pwm: 1012.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: -5.82 Yaw: -60.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1017.00 motor4_pwm: 1019.00
+ ch_throttle: 1000
+Roll: -0.81 Pitch: -9.07 Yaw: -61.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1023.00 motor4_pwm: 1027.00
+ ch_throttle: 1000
+Roll: -0.94 Pitch: -12.07 Yaw: -61.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1035.00 motor4_pwm: 1038.00
+ ch_throttle: 1000
+Roll: -1.12 Pitch: -15.19 Yaw: -61.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1040.00 motor4_pwm: 1043.00
+ ch_throttle: 1000
+Roll: -1.19 Pitch: -17.38 Yaw: -61.00 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1044.00 motor4_pwm: 1045.00
+ ch_throttle: 1000
+Roll: -1.19 Pitch: -19.69 Yaw: -60.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1046.00 motor4_pwm: 1048.00
+ ch_throttle: 1000
+Roll: -1.19 Pitch: -21.07 Yaw: -59.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1051.00 motor4_pwm: 1051.00
+ ch_throttle: 1000
+Roll: -1.19 Pitch: -23.75 Yaw: -58.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1057.00 motor4_pwm: 1062.00
+ ch_throttle: 1000
+Roll: -1.25 Pitch: -25.94 Yaw: -58.38 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1067.00 motor4_pwm: 1072.00
+ ch_throttle: 1000
+Roll: -1.37 Pitch: -27.82 Yaw: -58.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1078.00 motor4_pwm: 1082.00
+ ch_throttle: 1000
+Roll: -1.50 Pitch: -30.00 Yaw: -59.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1088.00 motor4_pwm: 1091.00
+ ch_throttle: 1000
+Roll: -1.62 Pitch: -31.50 Yaw: -59.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1090.00 motor4_pwm: 1091.00
+ ch_throttle: 1000
+Roll: -1.75 Pitch: -32.75 Yaw: -59.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1090.00 motor4_pwm: 1089.00
+ ch_throttle: 1000
+Roll: -1.75 Pitch: -33.88 Yaw: -59.13 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1085.00 motor4_pwm: 1084.00
+ ch_throttle: 1000
+Roll: -1.69 Pitch: -34.94 Yaw: -58.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1085.00 motor4_pwm: 1087.00
+ ch_throttle: 1000
+Roll: -1.75 Pitch: -35.94 Yaw: -58.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1090.00 motor4_pwm: 1092.00
+ ch_throttle: 1000
+Roll: -1.87 Pitch: -37.13 Yaw: -57.88 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1096.00 motor4_pwm: 1098.00
+ ch_throttle: 1000
+Roll: -2.00 Pitch: -38.69 Yaw: -57.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1103.00 motor4_pwm: 1105.00
+ ch_throttle: 1000
+Roll: -2.12 Pitch: -40.06 Yaw: -57.38 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1107.00 motor4_pwm: 1107.00
+ ch_throttle: 1000
+Roll: -2.12 Pitch: -41.94 Yaw: -57.00 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1109.00 motor4_pwm: 1112.00
+ ch_throttle: 1000
+Roll: -2.19 Pitch: -43.50 Yaw: -56.88 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1116.00 motor4_pwm: 1116.00
+ ch_throttle: 1000
+Roll: -2.19 Pitch: -44.44 Yaw: -56.81 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1118.00 motor4_pwm: 1119.00
+ ch_throttle: 1000
+Roll: -2.06 Pitch: -45.06 Yaw: -56.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1115.00 motor4_pwm: 1115.00
+ ch_throttle: 1000
+Roll: -2.06 Pitch: -45.75 Yaw: -56.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1120.00 motor4_pwm: 1122.00
+ ch_throttle: 1000
+Roll: -2.19 Pitch: -46.44 Yaw: -56.38 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1125.00 motor4_pwm: 1128.00
+ ch_throttle: 1000
+Roll: -2.37 Pitch: -46.31 Yaw: -56.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1130.00 motor4_pwm: 1130.00
+ ch_throttle: 1000
+Roll: -2.37 Pitch: -45.19 Yaw: -56.81 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1126.00 motor4_pwm: 1126.00
+ ch_throttle: 1000
+Roll: -2.19 Pitch: -42.00 Yaw: -56.94 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1112.00 motor4_pwm: 1106.00
+ ch_throttle: 1000
+Roll: -2.00 Pitch: -37.19 Yaw: -56.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1100.00 motor4_pwm: 1091.00
+ ch_throttle: 1000
+Roll: -1.81 Pitch: -33.13 Yaw: -56.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1085.00 motor4_pwm: 1077.00
+ ch_throttle: 1000
+Roll: -1.50 Pitch: -28.82 Yaw: -56.13 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1069.00 motor4_pwm: 1064.00
+ ch_throttle: 1000
+Roll: -1.25 Pitch: -23.75 Yaw: -56.00 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1061.00 motor4_pwm: 1059.00
+ ch_throttle: 1000
+Roll: -1.12 Pitch: -19.57 Yaw: -56.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1052.00 motor4_pwm: 1052.00
+ ch_throttle: 1000
+Roll: -0.94 Pitch: -14.00 Yaw: -56.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1038.00 motor4_pwm: 1031.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: -9.00 Yaw: -56.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1028.00 motor4_pwm: 1022.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: -5.63 Yaw: -56.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1017.00 motor4_pwm: 1014.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: -1.75 Yaw: -56.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 1.37 Yaw: -56.00 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.37 Pitch: 5.31 Yaw: -56.06 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.37 Pitch: 8.68 Yaw: -56.13 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.31 Pitch: 10.68 Yaw: -56.31 motor1_pwm: 1028.00 motor2_pwm: 1028.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.25 Pitch: 12.12 Yaw: -56.44 motor1_pwm: 1033.00 motor2_pwm: 1033.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.31 Pitch: 12.93 Yaw: -56.56 motor1_pwm: 1032.00 motor2_pwm: 1032.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.44 Pitch: 13.31 Yaw: -56.75 motor1_pwm: 1033.00 motor2_pwm: 1033.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.44 Pitch: 13.50 Yaw: -56.88 motor1_pwm: 1037.00 motor2_pwm: 1037.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.37 Pitch: 13.31 Yaw: -56.88 motor1_pwm: 1037.00 motor2_pwm: 1037.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.44 Pitch: 12.62 Yaw: -56.81 motor1_pwm: 1032.00 motor2_pwm: 1032.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 11.37 Yaw: -56.56 motor1_pwm: 1030.00 motor2_pwm: 1030.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.56 Pitch: 10.56 Yaw: -56.44 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 9.56 Yaw: -56.25 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.44 Pitch: 8.75 Yaw: -56.06 motor1_pwm: 1025.00 motor2_pwm: 1025.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 7.81 Yaw: -55.94 motor1_pwm: 1020.00 motor2_pwm: 1020.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.56 Pitch: 6.81 Yaw: -56.00 motor1_pwm: 1019.00 motor2_pwm: 1019.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.56 Pitch: 6.25 Yaw: -56.06 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: 5.81 Yaw: -56.13 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: 5.62 Yaw: -56.19 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.56 Pitch: 5.56 Yaw: -56.25 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1001
+Roll: -0.56 Pitch: 5.50 Yaw: -56.25 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1002
+Roll: -0.56 Pitch: 5.43 Yaw: -56.19 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1006.00
+ ch_throttle: 1030
+Roll: -0.62 Pitch: 5.31 Yaw: -56.13 motor1_pwm: 1043.00 motor2_pwm: 1043.00 motor3_pwm: 1017.00 motor4_pwm: 1069.00
+ ch_throttle: 1095
+Roll: -0.62 Pitch: 5.25 Yaw: -56.06 motor1_pwm: 1108.00 motor2_pwm: 1108.00 motor3_pwm: 1082.00 motor4_pwm: 1100.00
+ ch_throttle: 1121
+Roll: -0.62 Pitch: 5.18 Yaw: -56.00 motor1_pwm: 1134.00 motor2_pwm: 1134.00 motor3_pwm: 1108.00 motor4_pwm: 1119.00
+ ch_throttle: 1140
+Roll: -0.69 Pitch: 4.87 Yaw: -56.25 motor1_pwm: 1162.00 motor2_pwm: 1162.00 motor3_pwm: 1136.00 motor4_pwm: 1138.00
+ ch_throttle: 1158
+Roll: -0.75 Pitch: 4.50 Yaw: -56.56 motor1_pwm: 1168.00 motor2_pwm: 1168.00 motor3_pwm: 1148.00 motor4_pwm: 1157.00
+ ch_throttle: 1167
+Roll: -0.94 Pitch: 3.62 Yaw: -56.75 motor1_pwm: 1173.00 motor2_pwm: 1173.00 motor3_pwm: 1161.00 motor4_pwm: 1170.00
+ ch_throttle: 1176
+Roll: -0.94 Pitch: 3.25 Yaw: -56.75 motor1_pwm: 1800.00 motor2_pwm: 1800.00 motor3_pwm: 1800.00 motor4_pwm: 1173.00
+ ch_throttle: 1179
+Roll: -0.94 Pitch: 3.18 Yaw: -56.56 motor1_pwm: 1189.00 motor2_pwm: 1189.00 motor3_pwm: 1169.00 motor4_pwm: 1180.00
+ ch_throttle: 1188
+Roll: -0.94 Pitch: 3.50 Yaw: -56.56 motor1_pwm: 1196.00 motor2_pwm: 1196.00 motor3_pwm: 1180.00 motor4_pwm: 1173.00
+ ch_throttle: 1190
+Roll: -0.75 Pitch: 4.00 Yaw: -56.56 motor1_pwm: 1201.00 motor2_pwm: 1201.00 motor3_pwm: 1179.00 motor4_pwm: 1186.00
+ ch_throttle: 1199
+Roll: -0.75 Pitch: 4.50 Yaw: -56.50 motor1_pwm: 1218.00 motor2_pwm: 1218.00 motor3_pwm: 1196.00 motor4_pwm: 1196.00
+ ch_throttle: 1207
+Roll: -0.81 Pitch: 4.50 Yaw: -56.38 motor1_pwm: 1223.00 motor2_pwm: 1223.00 motor3_pwm: 1209.00 motor4_pwm: 1209.00
+ ch_throttle: 1216
+Roll: -0.94 Pitch: 3.75 Yaw: -56.44 motor1_pwm: 1225.00 motor2_pwm: 1225.00 motor3_pwm: 1207.00 motor4_pwm: 1211.00
+ ch_throttle: 1219
+Roll: -1.25 Pitch: 2.81 Yaw: -56.50 motor1_pwm: 1223.00 motor2_pwm: 1223.00 motor3_pwm: 1215.00 motor4_pwm: 1216.00
+ ch_throttle: 1198
+Roll: -1.37 Pitch: 2.37 Yaw: -56.50 motor1_pwm: 1179.00 motor2_pwm: 1179.00 motor3_pwm: 1177.00 motor4_pwm: 1148.00
+ ch_throttle: 1129
+Roll: -1.25 Pitch: 2.31 Yaw: -56.44 motor1_pwm: 1101.00 motor2_pwm: 1101.00 motor3_pwm: 1083.00 motor4_pwm: 1083.00
+ ch_throttle: 1014
+Roll: -1.00 Pitch: 2.43 Yaw: -56.31 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1002.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -1.00 Pitch: 2.50 Yaw: -56.44 motor1_pwm: 1003.00 motor2_pwm: 1003.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 2.68 Yaw: -56.56 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 2.68 Yaw: -56.63 motor1_pwm: 1005.00 motor2_pwm: 1005.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 2.62 Yaw: -56.75 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 2.43 Yaw: -56.94 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.88 Pitch: 2.43 Yaw: -57.06 motor1_pwm: 1005.00 motor2_pwm: 1005.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.81 Pitch: 2.62 Yaw: -57.13 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: 2.75 Yaw: -57.00 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 2.81 Yaw: -56.94 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 2.75 Yaw: -56.94 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: 2.68 Yaw: -56.94 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: 2.68 Yaw: -56.88 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.75 Pitch: 2.87 Yaw: -56.81 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.00 Yaw: -56.81 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.00 Yaw: -56.75 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 2.81 Yaw: -56.81 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 2.68 Yaw: -56.88 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 2.81 Yaw: -56.94 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.12 Yaw: -56.88 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: 3.43 Yaw: -56.88 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: 3.62 Yaw: -56.88 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.62 Yaw: -56.94 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.68 Yaw: -57.06 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.68 Yaw: -57.06 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.62 Yaw: -57.06 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.62 Yaw: -57.06 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.62 Yaw: -57.06 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.62 Pitch: 3.62 Yaw: -57.00 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.50 Yaw: -57.00 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.37 Yaw: -57.06 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.31 Yaw: -57.13 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.25 Yaw: -57.19 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.69 Pitch: 3.25 Yaw: -57.19 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1001
+Roll: -0.69 Pitch: 3.25 Yaw: -57.19 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1001.00
+ ch_throttle: 1009
+Roll: -0.69 Pitch: 3.31 Yaw: -57.19 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1001.00 motor4_pwm: 1003.00
+ ch_throttle: 1019
+Roll: -0.69 Pitch: 3.37 Yaw: -57.19 motor1_pwm: 1028.00 motor2_pwm: 1028.00 motor3_pwm: 1010.00 motor4_pwm: 1018.00
+ ch_throttle: 1028
+Roll: -0.69 Pitch: 3.37 Yaw: -57.19 motor1_pwm: 1043.00 motor2_pwm: 1043.00 motor3_pwm: 1027.00 motor4_pwm: 1026.00
+ ch_throttle: 1044
+Roll: -0.69 Pitch: 3.43 Yaw: -57.19 motor1_pwm: 1053.00 motor2_pwm: 1053.00 motor3_pwm: 1035.00 motor4_pwm: 1036.00
+ ch_throttle: 1045
+Roll: -0.69 Pitch: 3.43 Yaw: -57.06 motor1_pwm: 1053.00 motor2_pwm: 1053.00 motor3_pwm: 1037.00 motor4_pwm: 1039.00
+ ch_throttle: 1055
+Roll: -0.69 Pitch: 3.37 Yaw: -57.06 motor1_pwm: 1063.00 motor2_pwm: 1063.00 motor3_pwm: 1047.00 motor4_pwm: 1047.00
+ ch_throttle: 1055
+Roll: -0.75 Pitch: 3.25 Yaw: -57.13 motor1_pwm: 1063.00 motor2_pwm: 1063.00 motor3_pwm: 1047.00 motor4_pwm: 1048.00
+ ch_throttle: 1056
+Roll: -0.81 Pitch: 3.12 Yaw: -57.25 motor1_pwm: 1063.00 motor2_pwm: 1063.00 motor3_pwm: 1049.00 motor4_pwm: 1052.00
+ ch_throttle: 1064
+Roll: -0.81 Pitch: 3.18 Yaw: -57.25 motor1_pwm: 1071.00 motor2_pwm: 1071.00 motor3_pwm: 1057.00 motor4_pwm: 1057.00
+ ch_throttle: 1075
+Roll: -0.75 Pitch: 3.25 Yaw: -57.25 motor1_pwm: 1084.00 motor2_pwm: 1084.00 motor3_pwm: 1066.00 motor4_pwm: 1066.00
+ ch_throttle: 1083
+Roll: -0.75 Pitch: 3.37 Yaw: -57.19 motor1_pwm: 1092.00 motor2_pwm: 1092.00 motor3_pwm: 1074.00 motor4_pwm: 1075.00
+ ch_throttle: 1092
+Roll: -0.75 Pitch: 3.50 Yaw: -57.25 motor1_pwm: 1101.00 motor2_pwm: 1101.00 motor3_pwm: 1083.00 motor4_pwm: 1091.00
+ ch_throttle: 1102
+Roll: -0.75 Pitch: 3.50 Yaw: -57.25 motor1_pwm: 1118.00 motor2_pwm: 1118.00 motor3_pwm: 1102.00 motor4_pwm: 1102.00
+ ch_throttle: 1110
+Roll: -0.81 Pitch: 3.37 Yaw: -57.25 motor1_pwm: 1120.00 motor2_pwm: 1120.00 motor3_pwm: 1100.00 motor4_pwm: 1105.00
+ ch_throttle: 1119
+Roll: -0.81 Pitch: 3.31 Yaw: -57.25 motor1_pwm: 1125.00 motor2_pwm: 1125.00 motor3_pwm: 1113.00 motor4_pwm: 1113.00
+ ch_throttle: 1121
+Roll: -0.81 Pitch: 3.31 Yaw: -57.25 motor1_pwm: 1140.00 motor2_pwm: 1140.00 motor3_pwm: 1118.00 motor4_pwm: 1118.00
+ ch_throttle: 1130
+Roll: -0.81 Pitch: 3.37 Yaw: -57.25 motor1_pwm: 1137.00 motor2_pwm: 1137.00 motor3_pwm: 1123.00 motor4_pwm: 1123.00
+ ch_throttle: 1132
+Roll: -0.81 Pitch: 3.31 Yaw: -57.25 motor1_pwm: 1142.00 motor2_pwm: 1142.00 motor3_pwm: 1122.00 motor4_pwm: 1130.00
+ ch_throttle: 1143
+Roll: -0.81 Pitch: 3.25 Yaw: -57.31 motor1_pwm: 1149.00 motor2_pwm: 1149.00 motor3_pwm: 1133.00 motor4_pwm: 1131.00
+ ch_throttle: 1143
+Roll: -0.88 Pitch: 3.18 Yaw: -57.31 motor1_pwm: 1153.00 motor2_pwm: 1153.00 motor3_pwm: 1135.00 motor4_pwm: 1135.00
+ ch_throttle: 1151
+Roll: -0.88 Pitch: 3.25 Yaw: -57.31 motor1_pwm: 1163.00 motor2_pwm: 1163.00 motor3_pwm: 1139.00 motor4_pwm: 1146.00
+ ch_throttle: 1152
+Roll: -0.88 Pitch: 3.43 Yaw: -57.38 motor1_pwm: 1157.00 motor2_pwm: 1157.00 motor3_pwm: 1147.00 motor4_pwm: 1139.00
+ ch_throttle: 1155
+Roll: -0.88 Pitch: 3.56 Yaw: -57.38 motor1_pwm: 1167.00 motor2_pwm: 1167.00 motor3_pwm: 1143.00 motor4_pwm: 1150.00
+ ch_throttle: 1157
+Roll: -0.88 Pitch: 3.75 Yaw: -57.44 motor1_pwm: 1165.00 motor2_pwm: 1165.00 motor3_pwm: 1149.00 motor4_pwm: 1155.00
+ ch_throttle: 1165
+Roll: -0.94 Pitch: 3.87 Yaw: -57.38 motor1_pwm: 1175.00 motor2_pwm: 1175.00 motor3_pwm: 1157.00 motor4_pwm: 1166.00
+ ch_throttle: 1175
+Roll: -0.94 Pitch: 4.00 Yaw: -57.31 motor1_pwm: 1196.00 motor2_pwm: 1196.00 motor3_pwm: 1174.00 motor4_pwm: 1174.00
+ ch_throttle: 1193
+Roll: -0.88 Pitch: 4.18 Yaw: -57.25 motor1_pwm: 1200.00 motor2_pwm: 1200.00 motor3_pwm: 1186.00 motor4_pwm: 1181.00
+ ch_throttle: 1196
+Roll: -0.88 Pitch: 4.18 Yaw: -57.38 motor1_pwm: 1207.00 motor2_pwm: 1207.00 motor3_pwm: 1185.00 motor4_pwm: 1193.00
+ ch_throttle: 1203
+Roll: -0.94 Pitch: 4.06 Yaw: -57.56 motor1_pwm: 1214.00 motor2_pwm: 1214.00 motor3_pwm: 1192.00 motor4_pwm: 1193.00
+ ch_throttle: 1212
+Roll: -1.00 Pitch: 3.93 Yaw: -57.75 motor1_pwm: 1223.00 motor2_pwm: 1223.00 motor3_pwm: 1201.00 motor4_pwm: 1204.00
+ ch_throttle: 1214
+Roll: -1.00 Pitch: 3.87 Yaw: -57.94 motor1_pwm: 1222.00 motor2_pwm: 1222.00 motor3_pwm: 1206.00 motor4_pwm: 1212.00
+ ch_throttle: 1222
+Roll: -1.06 Pitch: 3.87 Yaw: -58.00 motor1_pwm: 1233.00 motor2_pwm: 1233.00 motor3_pwm: 1213.00 motor4_pwm: 1214.00
+ ch_throttle: 1231
+Roll: -1.06 Pitch: 3.93 Yaw: -58.00 motor1_pwm: 1239.00 motor2_pwm: 1239.00 motor3_pwm: 1223.00 motor4_pwm: 1223.00
+ ch_throttle: 1234
+Roll: -1.00 Pitch: 4.00 Yaw: -58.00 motor1_pwm: 1255.00 motor2_pwm: 1255.00 motor3_pwm: 1229.00 motor4_pwm: 1229.00
+ ch_throttle: 1242
+Roll: -1.00 Pitch: 4.06 Yaw: -58.06 motor1_pwm: 1254.00 motor2_pwm: 1254.00 motor3_pwm: 1230.00 motor4_pwm: 1234.00
+ ch_throttle: 1250
+Roll: -1.12 Pitch: 4.00 Yaw: -58.00 motor1_pwm: 1257.00 motor2_pwm: 1257.00 motor3_pwm: 1243.00 motor4_pwm: 1243.00
+ ch_throttle: 1251
+Roll: -1.19 Pitch: 3.68 Yaw: -57.94 motor1_pwm: 1257.00 motor2_pwm: 1257.00 motor3_pwm: 1245.00 motor4_pwm: 1246.00
+ ch_throttle: 1261
+Roll: -1.19 Pitch: 3.56 Yaw: -57.88 motor1_pwm: 1270.00 motor2_pwm: 1270.00 motor3_pwm: 1252.00 motor4_pwm: 1253.00
+ ch_throttle: 1262
+Roll: -1.12 Pitch: 3.56 Yaw: -57.81 motor1_pwm: 1273.00 motor2_pwm: 1273.00 motor3_pwm: 1253.00 motor4_pwm: 1254.00
+ ch_throttle: 1264
+Roll: -1.06 Pitch: 3.62 Yaw: -57.75 motor1_pwm: 1274.00 motor2_pwm: 1274.00 motor3_pwm: 1258.00 motor4_pwm: 1258.00
+ ch_throttle: 1273
+Roll: -1.06 Pitch: 3.56 Yaw: -57.81 motor1_pwm: 1281.00 motor2_pwm: 1281.00 motor3_pwm: 1265.00 motor4_pwm: 1267.00
+ ch_throttle: 1273
+Roll: -1.12 Pitch: 3.43 Yaw: -57.88 motor1_pwm: 1282.00 motor2_pwm: 1282.00 motor3_pwm: 1270.00 motor4_pwm: 1270.00
+ ch_throttle: 1276
+Roll: -1.25 Pitch: 3.31 Yaw: -58.00 motor1_pwm: 1280.00 motor2_pwm: 1280.00 motor3_pwm: 1272.00 motor4_pwm: 1281.00
+ ch_throttle: 1286
+Roll: -1.25 Pitch: 3.37 Yaw: -58.06 motor1_pwm: 1292.00 motor2_pwm: 1292.00 motor3_pwm: 1280.00 motor4_pwm: 1276.00
+ ch_throttle: 1287
+Roll: -1.12 Pitch: 3.75 Yaw: -58.00 motor1_pwm: 1300.00 motor2_pwm: 1300.00 motor3_pwm: 1274.00 motor4_pwm: 1275.00
+ ch_throttle: 1290
+Roll: -1.00 Pitch: 3.87 Yaw: -57.94 motor1_pwm: 1303.00 motor2_pwm: 1303.00 motor3_pwm: 1281.00 motor4_pwm: 1281.00
+ ch_throttle: 1299
+Roll: -1.00 Pitch: 3.93 Yaw: -57.81 motor1_pwm: 1308.00 motor2_pwm: 1308.00 motor3_pwm: 1290.00 motor4_pwm: 1290.00
+ ch_throttle: 1300
+Roll: -1.12 Pitch: 3.50 Yaw: -57.94 motor1_pwm: 1307.00 motor2_pwm: 1307.00 motor3_pwm: 1293.00 motor4_pwm: 1296.00
+ ch_throttle: 1303
+Roll: -1.19 Pitch: 3.12 Yaw: -58.00 motor1_pwm: 1310.00 motor2_pwm: 1310.00 motor3_pwm: 1296.00 motor4_pwm: 1301.00
+ ch_throttle: 1306
+Roll: -1.37 Pitch: 2.81 Yaw: -58.00 motor1_pwm: 1310.00 motor2_pwm: 1310.00 motor3_pwm: 1302.00 motor4_pwm: 1312.00
+ ch_throttle: 1315
+Roll: -1.31 Pitch: 2.75 Yaw: -57.94 motor1_pwm: 1321.00 motor2_pwm: 1321.00 motor3_pwm: 1309.00 motor4_pwm: 1306.00
+ ch_throttle: 1317
+Roll: -1.19 Pitch: 2.93 Yaw: -57.94 motor1_pwm: 1339.00 motor2_pwm: 1339.00 motor3_pwm: 1311.00 motor4_pwm: 1311.00
+ ch_throttle: 1325
+Roll: -0.81 Pitch: 3.25 Yaw: -57.75 motor1_pwm: 1338.00 motor2_pwm: 1338.00 motor3_pwm: 1312.00 motor4_pwm: 1311.00
+ ch_throttle: 1326
+Roll: -0.75 Pitch: 3.18 Yaw: -57.63 motor1_pwm: 1335.00 motor2_pwm: 1335.00 motor3_pwm: 1317.00 motor4_pwm: 1321.00
+ ch_throttle: 1330
+Roll: -1.00 Pitch: 2.87 Yaw: -57.69 motor1_pwm: 1332.00 motor2_pwm: 1332.00 motor3_pwm: 1328.00 motor4_pwm: 1331.00
+ ch_throttle: 1332
+Roll: -1.25 Pitch: 2.50 Yaw: -57.81 motor1_pwm: 1332.00 motor2_pwm: 1332.00 motor3_pwm: 1332.00 motor4_pwm: 1334.00
+ ch_throttle: 1334
+Roll: -1.44 Pitch: 2.37 Yaw: -57.88 motor1_pwm: 1336.00 motor2_pwm: 1336.00 motor3_pwm: 1332.00 motor4_pwm: 1332.00
+ ch_throttle: 1336
+Roll: -1.19 Pitch: 2.75 Yaw: -57.75 motor1_pwm: 1354.00 motor2_pwm: 1354.00 motor3_pwm: 1334.00 motor4_pwm: 1330.00
+ ch_throttle: 1345
+Roll: -0.88 Pitch: 3.12 Yaw: -57.63 motor1_pwm: 1363.00 motor2_pwm: 1363.00 motor3_pwm: 1327.00 motor4_pwm: 1328.00
+ ch_throttle: 1347
+Roll: -0.50 Pitch: 3.50 Yaw: -57.50 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1342.00
+ ch_throttle: 1356
+Roll: -0.94 Pitch: 3.06 Yaw: -57.56 motor1_pwm: 1363.00 motor2_pwm: 1363.00 motor3_pwm: 1349.00 motor4_pwm: 1371.00
+ ch_throttle: 1364
+Roll: -2.25 Pitch: 2.50 Yaw: -58.19 motor1_pwm: 1338.00 motor2_pwm: 1338.00 motor3_pwm: 1390.00 motor4_pwm: 1383.00
+ ch_throttle: 1374
+Roll: -2.06 Pitch: 1.87 Yaw: -58.69 motor1_pwm: 1385.00 motor2_pwm: 1385.00 motor3_pwm: 1363.00 motor4_pwm: 1350.00
+ ch_throttle: 1374
+Roll: -1.19 Pitch: 1.81 Yaw: -58.38 motor1_pwm: 1400.00 motor2_pwm: 1400.00 motor3_pwm: 1348.00 motor4_pwm: 1349.00
+ ch_throttle: 1375
+Roll: 0.25 Pitch: 2.37 Yaw: -57.38 motor1_pwm: 1405.00 motor2_pwm: 1405.00 motor3_pwm: 1347.00 motor4_pwm: 1346.00
+ ch_throttle: 1377
+Roll: 1.00 Pitch: 1.81 Yaw: -57.13 motor1_pwm: 1401.00 motor2_pwm: 1401.00 motor3_pwm: 1353.00 motor4_pwm: 1353.00
+ ch_throttle: 1367
+Roll: 0.81 Pitch: -0.88 Yaw: -57.06 motor1_pwm: 1367.00 motor2_pwm: 1367.00 motor3_pwm: 1367.00 motor4_pwm: 1378.00
+ ch_throttle: 1344
+Roll: -0.31 Pitch: -2.38 Yaw: -57.06 motor1_pwm: 1251.00 motor2_pwm: 1251.00 motor3_pwm: 1339.00 motor4_pwm: 1339.00
+ ch_throttle: 1268
+Roll: -1.50 Pitch: -3.69 Yaw: -57.19 motor1_pwm: 1236.00 motor2_pwm: 1236.00 motor3_pwm: 1300.00 motor4_pwm: 1166.00
+ ch_throttle: 1118
+Roll: -0.88 Pitch: -0.38 Yaw: -56.88 motor1_pwm: 1800.00 motor2_pwm: 1800.00 motor3_pwm: 1800.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.56 Pitch: 3.68 Yaw: -56.19 motor1_pwm: 1007.00 motor2_pwm: 1007.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.50 Pitch: 11.50 Yaw: -55.69 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.62 Pitch: 12.00 Yaw: -56.00 motor1_pwm: 1109.00 motor2_pwm: 1109.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.94 Pitch: 9.37 Yaw: -55.50 motor1_pwm: 1030.00 motor2_pwm: 1030.00 motor3_pwm: 1000.00 motor4_pwm: 1018.00
+ ch_throttle: 1000
+Roll: -0.25 Pitch: 10.56 Yaw: -56.81 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1023.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 9.87 Yaw: -57.25 motor1_pwm: 1058.00 motor2_pwm: 1058.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.00 Pitch: 8.50 Yaw: -56.44 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 8.12 Yaw: -56.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 7.37 Yaw: -56.19 motor1_pwm: 1032.00 motor2_pwm: 1032.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 7.18 Yaw: -56.19 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 6.93 Yaw: -56.25 motor1_pwm: 1687.00 motor2_pwm: 1687.00 motor3_pwm: 1505.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 6.81 Yaw: -56.38 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 6.62 Yaw: -56.38 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 6.56 Yaw: -56.50 motor1_pwm: 1018.00 motor2_pwm: 1018.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 6.50 Yaw: -56.56 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 6.37 Yaw: -56.44 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 6.37 Yaw: -56.44 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 6.25 Yaw: -56.50 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 6.12 Yaw: -56.56 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 6.06 Yaw: -56.75 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 6.00 Yaw: -56.81 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 6.00 Yaw: -56.81 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 5.93 Yaw: -56.81 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 5.75 Yaw: -56.81 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 5.68 Yaw: -56.81 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 5.50 Yaw: -56.81 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.50 Pitch: 5.43 Yaw: -56.81 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.43 Yaw: -56.88 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.50 Yaw: -56.88 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.62 Yaw: -56.88 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.75 Yaw: -56.88 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.75 Yaw: -56.88 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.62 Yaw: -56.94 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.50 Yaw: -57.00 motor1_pwm: 1013.00 motor2_pwm: 1013.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.43 Yaw: -57.06 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.43 Yaw: -57.06 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.43 Yaw: -57.13 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.37 Yaw: -57.19 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.37 Yaw: -57.25 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.44 Pitch: 5.31 Yaw: -57.31 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.25 Yaw: -57.44 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.12 Yaw: -57.50 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 5.00 Yaw: -57.50 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 4.68 Yaw: -57.50 motor1_pwm: 1013.00 motor2_pwm: 1013.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 4.37 Yaw: -57.38 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 4.12 Yaw: -57.25 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 4.25 Yaw: -57.19 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 4.62 Yaw: -57.19 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 5.06 Yaw: -57.25 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 5.37 Yaw: -57.38 motor1_pwm: 1015.00 motor2_pwm: 1015.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 5.50 Yaw: -57.56 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 5.50 Yaw: -57.75 motor1_pwm: 1016.00 motor2_pwm: 1016.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 5.37 Yaw: -57.88 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 5.12 Yaw: -57.81 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 4.93 Yaw: -57.69 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1002
+Roll: 0.31 Pitch: 4.81 Yaw: -57.56 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1002
+Roll: 0.31 Pitch: 4.62 Yaw: -57.38 motor1_pwm: 1013.00 motor2_pwm: 1013.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1004
+Roll: 0.31 Pitch: 4.56 Yaw: -57.19 motor1_pwm: 1017.00 motor2_pwm: 1017.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1009
+Roll: 0.37 Pitch: 4.56 Yaw: -57.13 motor1_pwm: 1021.00 motor2_pwm: 1021.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1011
+Roll: 0.37 Pitch: 4.50 Yaw: -57.06 motor1_pwm: 1023.00 motor2_pwm: 1023.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1012
+Roll: 0.37 Pitch: 4.50 Yaw: -57.06 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1002.00 motor4_pwm: 1002.00
+ ch_throttle: 1014
+Roll: 0.37 Pitch: 4.50 Yaw: -57.13 motor1_pwm: 1026.00 motor2_pwm: 1026.00 motor3_pwm: 1002.00 motor4_pwm: 1011.00
+ ch_throttle: 1022
+Roll: 0.37 Pitch: 4.50 Yaw: -57.19 motor1_pwm: 1033.00 motor2_pwm: 1033.00 motor3_pwm: 1011.00 motor4_pwm: 1018.00
+ ch_throttle: 1038
+Roll: 0.37 Pitch: 4.56 Yaw: -57.25 motor1_pwm: 1050.00 motor2_pwm: 1050.00 motor3_pwm: 1026.00 motor4_pwm: 1027.00
+ ch_throttle: 1047
+Roll: 0.37 Pitch: 4.56 Yaw: -57.25 motor1_pwm: 1059.00 motor2_pwm: 1059.00 motor3_pwm: 1035.00 motor4_pwm: 1036.00
+ ch_throttle: 1048
+Roll: 0.37 Pitch: 4.56 Yaw: -57.00 motor1_pwm: 1060.00 motor2_pwm: 1060.00 motor3_pwm: 1036.00 motor4_pwm: 1045.00
+ ch_throttle: 1056
+Roll: 0.37 Pitch: 4.43 Yaw: -57.19 motor1_pwm: 1066.00 motor2_pwm: 1066.00 motor3_pwm: 1046.00 motor4_pwm: 1047.00
+ ch_throttle: 1059
+Roll: 0.31 Pitch: 4.12 Yaw: -57.31 motor1_pwm: 1069.00 motor2_pwm: 1069.00 motor3_pwm: 1049.00 motor4_pwm: 1052.00
+ ch_throttle: 1068
+Roll: 0.25 Pitch: 3.87 Yaw: -57.38 motor1_pwm: 1076.00 motor2_pwm: 1076.00 motor3_pwm: 1060.00 motor4_pwm: 1059.00
+ ch_throttle: 1077
+Roll: 0.25 Pitch: 3.81 Yaw: -57.38 motor1_pwm: 1087.00 motor2_pwm: 1087.00 motor3_pwm: 1067.00 motor4_pwm: 1068.00
+ ch_throttle: 1079
+Roll: 0.31 Pitch: 3.81 Yaw: -57.25 motor1_pwm: 1090.00 motor2_pwm: 1090.00 motor3_pwm: 1070.00 motor4_pwm: 1078.00
+ ch_throttle: 1089
+Roll: 0.31 Pitch: 3.93 Yaw: -57.19 motor1_pwm: 1100.00 motor2_pwm: 1100.00 motor3_pwm: 1078.00 motor4_pwm: 1079.00
+ ch_throttle: 1097
+Roll: 0.31 Pitch: 4.12 Yaw: -57.13 motor1_pwm: 1108.00 motor2_pwm: 1108.00 motor3_pwm: 1086.00 motor4_pwm: 1095.00
+ ch_throttle: 1105
+Roll: 0.25 Pitch: 4.25 Yaw: -57.13 motor1_pwm: 1115.00 motor2_pwm: 1115.00 motor3_pwm: 1095.00 motor4_pwm: 1098.00
+ ch_throttle: 1114
+Roll: 0.25 Pitch: 4.37 Yaw: -57.19 motor1_pwm: 1127.00 motor2_pwm: 1127.00 motor3_pwm: 1101.00 motor4_pwm: 1106.00
+ ch_throttle: 1123
+Roll: 0.25 Pitch: 4.56 Yaw: -57.25 motor1_pwm: 1138.00 motor2_pwm: 1138.00 motor3_pwm: 1110.00 motor4_pwm: 1110.00
+ ch_throttle: 1133
+Roll: 0.25 Pitch: 4.68 Yaw: -57.31 motor1_pwm: 1147.00 motor2_pwm: 1147.00 motor3_pwm: 1119.00 motor4_pwm: 1118.00
+ ch_throttle: 1134
+Roll: 0.25 Pitch: 4.75 Yaw: -57.38 motor1_pwm: 1146.00 motor2_pwm: 1146.00 motor3_pwm: 1122.00 motor4_pwm: 1133.00
+ ch_throttle: 1143
+Roll: 0.19 Pitch: 4.81 Yaw: -57.38 motor1_pwm: 1153.00 motor2_pwm: 1153.00 motor3_pwm: 1133.00 motor4_pwm: 1136.00
+ ch_throttle: 1144
+Roll: 0.19 Pitch: 4.87 Yaw: -57.44 motor1_pwm: 1160.00 motor2_pwm: 1160.00 motor3_pwm: 1128.00 motor4_pwm: 1131.00
+ ch_throttle: 1147
+Roll: 0.19 Pitch: 5.06 Yaw: -57.44 motor1_pwm: 1166.00 motor2_pwm: 1166.00 motor3_pwm: 1132.00 motor4_pwm: 1133.00
+ ch_throttle: 1151
+Roll: 0.19 Pitch: 5.18 Yaw: -57.44 motor1_pwm: 1165.00 motor2_pwm: 1165.00 motor3_pwm: 1137.00 motor4_pwm: 1137.00
+ ch_throttle: 1152
+Roll: 0.13 Pitch: 5.18 Yaw: -57.50 motor1_pwm: 1165.00 motor2_pwm: 1165.00 motor3_pwm: 1139.00 motor4_pwm: 1149.00
+ ch_throttle: 1160
+Roll: 0.13 Pitch: 5.18 Yaw: -57.56 motor1_pwm: 1177.00 motor2_pwm: 1177.00 motor3_pwm: 1143.00 motor4_pwm: 1154.00
+ ch_throttle: 1162
+Roll: 0.13 Pitch: 5.31 Yaw: -57.56 motor1_pwm: 1181.00 motor2_pwm: 1181.00 motor3_pwm: 1143.00 motor4_pwm: 1153.00
+ ch_throttle: 1173
+Roll: 0.13 Pitch: 5.37 Yaw: -57.56 motor1_pwm: 1190.00 motor2_pwm: 1190.00 motor3_pwm: 1156.00 motor4_pwm: 1163.00
+ ch_throttle: 1180
+Roll: 0.19 Pitch: 5.43 Yaw: -57.56 motor1_pwm: 1196.00 motor2_pwm: 1196.00 motor3_pwm: 1164.00 motor4_pwm: 1166.00
+ ch_throttle: 1190
+Roll: 0.13 Pitch: 5.31 Yaw: -57.63 motor1_pwm: 1204.00 motor2_pwm: 1204.00 motor3_pwm: 1176.00 motor4_pwm: 1176.00
+ ch_throttle: 1190
+Roll: 0.06 Pitch: 5.12 Yaw: -57.63 motor1_pwm: 1204.00 motor2_pwm: 1204.00 motor3_pwm: 1176.00 motor4_pwm: 1186.00
+ ch_throttle: 1200
+Roll: 0.06 Pitch: 5.18 Yaw: -57.56 motor1_pwm: 1210.00 motor2_pwm: 1210.00 motor3_pwm: 1190.00 motor4_pwm: 1186.00
+ ch_throttle: 1202
+Roll: 0.13 Pitch: 5.37 Yaw: -57.50 motor1_pwm: 1215.00 motor2_pwm: 1215.00 motor3_pwm: 1189.00 motor4_pwm: 1190.00
+ ch_throttle: 1205
+Roll: 0.19 Pitch: 5.62 Yaw: -57.44 motor1_pwm: 1219.00 motor2_pwm: 1219.00 motor3_pwm: 1191.00 motor4_pwm: 1198.00
+ ch_throttle: 1213
+Roll: 0.19 Pitch: 5.75 Yaw: -57.38 motor1_pwm: 1229.00 motor2_pwm: 1229.00 motor3_pwm: 1197.00 motor4_pwm: 1199.00
+ ch_throttle: 1215
+Roll: 0.19 Pitch: 5.75 Yaw: -57.38 motor1_pwm: 1238.00 motor2_pwm: 1238.00 motor3_pwm: 1210.00 motor4_pwm: 1210.00
+ ch_throttle: 1224
+Roll: 0.13 Pitch: 5.50 Yaw: -57.44 motor1_pwm: 1237.00 motor2_pwm: 1237.00 motor3_pwm: 1211.00 motor4_pwm: 1209.00
+ ch_throttle: 1224
+Roll: 0.13 Pitch: 5.37 Yaw: -57.50 motor1_pwm: 1241.00 motor2_pwm: 1241.00 motor3_pwm: 1211.00 motor4_pwm: 1211.00
+ ch_throttle: 1234
+Roll: 0.06 Pitch: 5.18 Yaw: -57.56 motor1_pwm: 1244.00 motor2_pwm: 1244.00 motor3_pwm: 1224.00 motor4_pwm: 1219.00
+ ch_throttle: 1234
+Roll: 0.06 Pitch: 5.18 Yaw: -57.56 motor1_pwm: 1253.00 motor2_pwm: 1253.00 motor3_pwm: 1221.00 motor4_pwm: 1221.00
+ ch_throttle: 1244
+Roll: 0.13 Pitch: 5.12 Yaw: -57.56 motor1_pwm: 1258.00 motor2_pwm: 1258.00 motor3_pwm: 1230.00 motor4_pwm: 1234.00
+ ch_throttle: 1246
+Roll: 0.00 Pitch: 4.87 Yaw: -57.56 motor1_pwm: 1258.00 motor2_pwm: 1258.00 motor3_pwm: 1234.00 motor4_pwm: 1242.00
+ ch_throttle: 1256
+Roll: 0.00 Pitch: 4.75 Yaw: -57.56 motor1_pwm: 1267.00 motor2_pwm: 1267.00 motor3_pwm: 1245.00 motor4_pwm: 1247.00
+ ch_throttle: 1258
+Roll: 0.00 Pitch: 4.68 Yaw: -57.56 motor1_pwm: 1270.00 motor2_pwm: 1270.00 motor3_pwm: 1246.00 motor4_pwm: 1248.00
+ ch_throttle: 1260
+Roll: 0.06 Pitch: 4.81 Yaw: -57.50 motor1_pwm: 1274.00 motor2_pwm: 1274.00 motor3_pwm: 1250.00 motor4_pwm: 1247.00
+ ch_throttle: 1264
+Roll: 0.13 Pitch: 5.00 Yaw: -57.38 motor1_pwm: 1278.00 motor2_pwm: 1278.00 motor3_pwm: 1250.00 motor4_pwm: 1250.00
+ ch_throttle: 1266
+Roll: 0.25 Pitch: 5.12 Yaw: -57.31 motor1_pwm: 1279.00 motor2_pwm: 1279.00 motor3_pwm: 1253.00 motor4_pwm: 1255.00
+ ch_throttle: 1268
+Roll: 0.19 Pitch: 5.00 Yaw: -57.38 motor1_pwm: 1281.00 motor2_pwm: 1281.00 motor3_pwm: 1255.00 motor4_pwm: 1257.00
+ ch_throttle: 1270
+Roll: 0.13 Pitch: 4.87 Yaw: -57.44 motor1_pwm: 1283.00 motor2_pwm: 1283.00 motor3_pwm: 1257.00 motor4_pwm: 1262.00
+ ch_throttle: 1273
+Roll: 0.19 Pitch: 4.81 Yaw: -57.44 motor1_pwm: 1285.00 motor2_pwm: 1285.00 motor3_pwm: 1261.00 motor4_pwm: 1259.00
+ ch_throttle: 1276
+Roll: 0.25 Pitch: 4.81 Yaw: -57.44 motor1_pwm: 1290.00 motor2_pwm: 1290.00 motor3_pwm: 1262.00 motor4_pwm: 1261.00
+ ch_throttle: 1276
+Roll: 0.25 Pitch: 4.81 Yaw: -57.38 motor1_pwm: 1292.00 motor2_pwm: 1292.00 motor3_pwm: 1264.00 motor4_pwm: 1264.00
+ ch_throttle: 1278
+Roll: 0.25 Pitch: 4.75 Yaw: -57.38 motor1_pwm: 1290.00 motor2_pwm: 1290.00 motor3_pwm: 1266.00 motor4_pwm: 1266.00
+ ch_throttle: 1279
+Roll: 0.25 Pitch: 4.56 Yaw: -57.38 motor1_pwm: 1290.00 motor2_pwm: 1290.00 motor3_pwm: 1272.00 motor4_pwm: 1272.00
+ ch_throttle: 1282
+Roll: 0.13 Pitch: 4.37 Yaw: -57.44 motor1_pwm: 1290.00 motor2_pwm: 1290.00 motor3_pwm: 1274.00 motor4_pwm: 1272.00
+ ch_throttle: 1283
+Roll: 0.13 Pitch: 4.37 Yaw: -57.38 motor1_pwm: 1299.00 motor2_pwm: 1299.00 motor3_pwm: 1273.00 motor4_pwm: 1273.00
+ ch_throttle: 1286
+Roll: 0.19 Pitch: 4.68 Yaw: -57.31 motor1_pwm: 1301.00 motor2_pwm: 1301.00 motor3_pwm: 1271.00 motor4_pwm: 1274.00
+ ch_throttle: 1287
+Roll: 0.31 Pitch: 4.93 Yaw: -57.31 motor1_pwm: 1310.00 motor2_pwm: 1310.00 motor3_pwm: 1282.00 motor4_pwm: 1282.00
+ ch_throttle: 1296
+Roll: 0.31 Pitch: 4.93 Yaw: -57.31 motor1_pwm: 1308.00 motor2_pwm: 1308.00 motor3_pwm: 1284.00 motor4_pwm: 1284.00
+ ch_throttle: 1297
+Roll: 0.25 Pitch: 4.68 Yaw: -57.44 motor1_pwm: 1308.00 motor2_pwm: 1308.00 motor3_pwm: 1286.00 motor4_pwm: 1290.00
+ ch_throttle: 1301
+Roll: 0.13 Pitch: 4.56 Yaw: -57.50 motor1_pwm: 1311.00 motor2_pwm: 1311.00 motor3_pwm: 1291.00 motor4_pwm: 1293.00
+ ch_throttle: 1303
+Roll: 0.06 Pitch: 4.62 Yaw: -57.50 motor1_pwm: 1315.00 motor2_pwm: 1315.00 motor3_pwm: 1291.00 motor4_pwm: 1293.00
+ ch_throttle: 1305
+Roll: 0.19 Pitch: 4.81 Yaw: -57.50 motor1_pwm: 1322.00 motor2_pwm: 1322.00 motor3_pwm: 1290.00 motor4_pwm: 1290.00
+ ch_throttle: 1307
+Roll: 0.37 Pitch: 4.93 Yaw: -57.44 motor1_pwm: 1324.00 motor2_pwm: 1324.00 motor3_pwm: 1290.00 motor4_pwm: 1294.00
+ ch_throttle: 1307
+Roll: 0.37 Pitch: 4.93 Yaw: -57.38 motor1_pwm: 1320.00 motor2_pwm: 1320.00 motor3_pwm: 1296.00 motor4_pwm: 1296.00
+ ch_throttle: 1309
+Roll: 0.19 Pitch: 4.68 Yaw: -57.44 motor1_pwm: 1319.00 motor2_pwm: 1319.00 motor3_pwm: 1299.00 motor4_pwm: 1301.00
+ ch_throttle: 1309
+Roll: 0.06 Pitch: 4.50 Yaw: -57.50 motor1_pwm: 1319.00 motor2_pwm: 1319.00 motor3_pwm: 1299.00 motor4_pwm: 1302.00
+ ch_throttle: 1311
+Roll: 0.06 Pitch: 4.56 Yaw: -57.50 motor1_pwm: 1324.00 motor2_pwm: 1324.00 motor3_pwm: 1300.00 motor4_pwm: 1300.00
+ ch_throttle: 1312
+Roll: 0.19 Pitch: 4.87 Yaw: -57.44 motor1_pwm: 1328.00 motor2_pwm: 1328.00 motor3_pwm: 1296.00 motor4_pwm: 1299.00
+ ch_throttle: 1315
+Roll: 0.31 Pitch: 5.12 Yaw: -57.44 motor1_pwm: 1331.00 motor2_pwm: 1331.00 motor3_pwm: 1299.00 motor4_pwm: 1299.00
+ ch_throttle: 1315
+Roll: 0.31 Pitch: 5.06 Yaw: -57.50 motor1_pwm: 1329.00 motor2_pwm: 1329.00 motor3_pwm: 1301.00 motor4_pwm: 1306.00
+ ch_throttle: 1319
+Roll: 0.19 Pitch: 4.68 Yaw: -57.69 motor1_pwm: 1330.00 motor2_pwm: 1330.00 motor3_pwm: 1308.00 motor4_pwm: 1312.00
+ ch_throttle: 1320
+Roll: 0.06 Pitch: 4.62 Yaw: -57.69 motor1_pwm: 1329.00 motor2_pwm: 1329.00 motor3_pwm: 1311.00 motor4_pwm: 1321.00
+ ch_throttle: 1330
+Roll: 0.13 Pitch: 4.75 Yaw: -57.69 motor1_pwm: 1344.00 motor2_pwm: 1344.00 motor3_pwm: 1316.00 motor4_pwm: 1316.00
+ ch_throttle: 1332
+Roll: 0.31 Pitch: 5.06 Yaw: -57.63 motor1_pwm: 1350.00 motor2_pwm: 1350.00 motor3_pwm: 1314.00 motor4_pwm: 1316.00
+ ch_throttle: 1334
+Roll: 0.50 Pitch: 5.25 Yaw: -57.50 motor1_pwm: 1352.00 motor2_pwm: 1352.00 motor3_pwm: 1316.00 motor4_pwm: 1316.00
+ ch_throttle: 1336
+Roll: 0.62 Pitch: 5.18 Yaw: -57.50 motor1_pwm: 1353.00 motor2_pwm: 1353.00 motor3_pwm: 1319.00 motor4_pwm: 1329.00
+ ch_throttle: 1344
+Roll: 0.50 Pitch: 4.68 Yaw: -57.56 motor1_pwm: 1355.00 motor2_pwm: 1355.00 motor3_pwm: 1333.00 motor4_pwm: 1337.00
+ ch_throttle: 1346
+Roll: 0.31 Pitch: 4.43 Yaw: -57.69 motor1_pwm: 1352.00 motor2_pwm: 1352.00 motor3_pwm: 1340.00 motor4_pwm: 1340.00
+ ch_throttle: 1346
+Roll: 0.19 Pitch: 4.18 Yaw: -57.69 motor1_pwm: 1354.00 motor2_pwm: 1354.00 motor3_pwm: 1338.00 motor4_pwm: 1336.00
+ ch_throttle: 1348
+Roll: 0.44 Pitch: 4.37 Yaw: -57.63 motor1_pwm: 1363.00 motor2_pwm: 1363.00 motor3_pwm: 1333.00 motor4_pwm: 1331.00
+ ch_throttle: 1348
+Roll: 0.75 Pitch: 4.62 Yaw: -57.44 motor1_pwm: 1366.00 motor2_pwm: 1366.00 motor3_pwm: 1330.00 motor4_pwm: 1330.00
+ ch_throttle: 1348
+Roll: 0.88 Pitch: 4.87 Yaw: -57.38 motor1_pwm: 1364.00 motor2_pwm: 1364.00 motor3_pwm: 1332.00 motor4_pwm: 1333.00
+ ch_throttle: 1348
+Roll: 0.88 Pitch: 4.87 Yaw: -57.38 motor1_pwm: 1360.00 motor2_pwm: 1360.00 motor3_pwm: 1336.00 motor4_pwm: 1337.00
+ ch_throttle: 1348
+Roll: 0.69 Pitch: 4.68 Yaw: -57.56 motor1_pwm: 1356.00 motor2_pwm: 1356.00 motor3_pwm: 1340.00 motor4_pwm: 1341.00
+ ch_throttle: 1348
+Roll: 0.37 Pitch: 4.43 Yaw: -57.75 motor1_pwm: 1352.00 motor2_pwm: 1352.00 motor3_pwm: 1344.00 motor4_pwm: 1343.00
+ ch_throttle: 1348
+Roll: 0.13 Pitch: 4.25 Yaw: -57.94 motor1_pwm: 1353.00 motor2_pwm: 1353.00 motor3_pwm: 1343.00 motor4_pwm: 1340.00
+ ch_throttle: 1347
+Roll: 0.13 Pitch: 4.31 Yaw: -57.88 motor1_pwm: 1358.00 motor2_pwm: 1358.00 motor3_pwm: 1336.00 motor4_pwm: 1333.00
+ ch_throttle: 1346
+Roll: 0.56 Pitch: 4.75 Yaw: -57.69 motor1_pwm: 1365.00 motor2_pwm: 1365.00 motor3_pwm: 1327.00 motor4_pwm: 1326.00
+ ch_throttle: 1346
+Roll: 0.69 Pitch: 5.06 Yaw: -57.56 motor1_pwm: 1362.00 motor2_pwm: 1362.00 motor3_pwm: 1330.00 motor4_pwm: 1330.00
+ ch_throttle: 1346
+Roll: 0.50 Pitch: 4.93 Yaw: -57.50 motor1_pwm: 1356.00 motor2_pwm: 1356.00 motor3_pwm: 1336.00 motor4_pwm: 1339.00
+ ch_throttle: 1346
+Roll: 0.25 Pitch: 4.37 Yaw: -57.69 motor1_pwm: 1352.00 motor2_pwm: 1352.00 motor3_pwm: 1340.00 motor4_pwm: 1340.00
+ ch_throttle: 1346
+Roll: 0.00 Pitch: 4.12 Yaw: -57.81 motor1_pwm: 1352.00 motor2_pwm: 1352.00 motor3_pwm: 1340.00 motor4_pwm: 1338.00
+ ch_throttle: 1345
+Roll: 0.00 Pitch: 4.31 Yaw: -57.69 motor1_pwm: 1358.00 motor2_pwm: 1358.00 motor3_pwm: 1332.00 motor4_pwm: 1331.00
+ ch_throttle: 1344
+Roll: 0.50 Pitch: 4.81 Yaw: -57.38 motor1_pwm: 1364.00 motor2_pwm: 1364.00 motor3_pwm: 1324.00 motor4_pwm: 1323.00
+ ch_throttle: 1342
+Roll: 0.69 Pitch: 5.12 Yaw: -57.25 motor1_pwm: 1361.00 motor2_pwm: 1361.00 motor3_pwm: 1323.00 motor4_pwm: 1329.00
+ ch_throttle: 1342
+Roll: 0.31 Pitch: 4.75 Yaw: -57.44 motor1_pwm: 1346.00 motor2_pwm: 1346.00 motor3_pwm: 1338.00 motor4_pwm: 1339.00
+ ch_throttle: 1342
+Roll: 0.00 Pitch: 4.31 Yaw: -57.69 motor1_pwm: 1344.00 motor2_pwm: 1344.00 motor3_pwm: 1340.00 motor4_pwm: 1340.00
+ ch_throttle: 1342
+Roll: -0.31 Pitch: 4.00 Yaw: -57.94 motor1_pwm: 1347.00 motor2_pwm: 1347.00 motor3_pwm: 1337.00 motor4_pwm: 1334.00
+ ch_throttle: 1342
+Roll: -0.19 Pitch: 4.31 Yaw: -57.88 motor1_pwm: 1360.00 motor2_pwm: 1360.00 motor3_pwm: 1324.00 motor4_pwm: 1324.00
+ ch_throttle: 1342
+Roll: 0.56 Pitch: 5.43 Yaw: -57.44 motor1_pwm: 1367.00 motor2_pwm: 1367.00 motor3_pwm: 1317.00 motor4_pwm: 1316.00
+ ch_throttle: 1342
+Roll: 0.94 Pitch: 5.75 Yaw: -57.25 motor1_pwm: 1364.00 motor2_pwm: 1364.00 motor3_pwm: 1320.00 motor4_pwm: 1320.00
+ ch_throttle: 1344
+Roll: 0.44 Pitch: 5.00 Yaw: -57.44 motor1_pwm: 1350.00 motor2_pwm: 1350.00 motor3_pwm: 1338.00 motor4_pwm: 1344.00
+ ch_throttle: 1344
+Roll: -0.31 Pitch: 4.18 Yaw: -57.75 motor1_pwm: 1340.00 motor2_pwm: 1340.00 motor3_pwm: 1348.00 motor4_pwm: 1350.00
+ ch_throttle: 1344
+Roll: -0.75 Pitch: 3.81 Yaw: -57.94 motor1_pwm: 1345.00 motor2_pwm: 1345.00 motor3_pwm: 1345.00 motor4_pwm: 1345.00
+ ch_throttle: 1346
+Roll: -0.56 Pitch: 4.18 Yaw: -57.88 motor1_pwm: 1359.00 motor2_pwm: 1359.00 motor3_pwm: 1333.00 motor4_pwm: 1332.00
+ ch_throttle: 1356
+Roll: 0.44 Pitch: 5.50 Yaw: -57.31 motor1_pwm: 1386.00 motor2_pwm: 1386.00 motor3_pwm: 1326.00 motor4_pwm: 1324.00
+ ch_throttle: 1358
+Roll: 0.88 Pitch: 6.06 Yaw: -57.00 motor1_pwm: 1383.00 motor2_pwm: 1383.00 motor3_pwm: 1333.00 motor4_pwm: 1339.00
+ ch_throttle: 1361
+Roll: 0.75 Pitch: 5.56 Yaw: -57.13 motor1_pwm: 1373.00 motor2_pwm: 1373.00 motor3_pwm: 1349.00 motor4_pwm: 1358.00
+ ch_throttle: 1364
+Roll: 0.06 Pitch: 4.43 Yaw: -57.63 motor1_pwm: 1362.00 motor2_pwm: 1362.00 motor3_pwm: 1366.00 motor4_pwm: 1372.00
+ ch_throttle: 1364
+Roll: -1.31 Pitch: 3.00 Yaw: -58.50 motor1_pwm: 1350.00 motor2_pwm: 1350.00 motor3_pwm: 1378.00 motor4_pwm: 1378.00
+ ch_throttle: 1364
+Roll: -1.87 Pitch: 2.75 Yaw: -58.88 motor1_pwm: 1361.00 motor2_pwm: 1361.00 motor3_pwm: 1367.00 motor4_pwm: 1367.00
+ ch_throttle: 1364
+Roll: -1.56 Pitch: 3.68 Yaw: -58.94 motor1_pwm: 1377.00 motor2_pwm: 1377.00 motor3_pwm: 1351.00 motor4_pwm: 1337.00
+ ch_throttle: 1364
+Roll: 0.00 Pitch: 5.87 Yaw: -58.44 motor1_pwm: 1403.00 motor2_pwm: 1403.00 motor3_pwm: 1325.00 motor4_pwm: 1321.00
+ ch_throttle: 1364
+Roll: 0.81 Pitch: 7.31 Yaw: -57.94 motor1_pwm: 1401.00 motor2_pwm: 1401.00 motor3_pwm: 1327.00 motor4_pwm: 1332.00
+ ch_throttle: 1364
+Roll: 0.81 Pitch: 7.75 Yaw: -57.81 motor1_pwm: 1384.00 motor2_pwm: 1384.00 motor3_pwm: 1344.00 motor4_pwm: 1354.00
+ ch_throttle: 1364
+Roll: -0.19 Pitch: 6.93 Yaw: -58.25 motor1_pwm: 1362.00 motor2_pwm: 1362.00 motor3_pwm: 1366.00 motor4_pwm: 1374.00
+ ch_throttle: 1364
+Roll: -1.69 Pitch: 5.37 Yaw: -59.13 motor1_pwm: 1346.00 motor2_pwm: 1346.00 motor3_pwm: 1382.00 motor4_pwm: 1386.00
+ ch_throttle: 1364
+Roll: -3.19 Pitch: 4.00 Yaw: -60.13 motor1_pwm: 1340.00 motor2_pwm: 1340.00 motor3_pwm: 1388.00 motor4_pwm: 1385.00
+ ch_throttle: 1364
+Roll: -4.00 Pitch: 3.62 Yaw: -61.00 motor1_pwm: 1361.00 motor2_pwm: 1361.00 motor3_pwm: 1367.00 motor4_pwm: 1357.00
+ ch_throttle: 1364
+Roll: -3.44 Pitch: 4.50 Yaw: -60.94 motor1_pwm: 1399.00 motor2_pwm: 1399.00 motor3_pwm: 1329.00 motor4_pwm: 1329.00
+ ch_throttle: 1364
+Roll: -1.44 Pitch: 7.37 Yaw: -60.44 motor1_pwm: 1415.00 motor2_pwm: 1415.00 motor3_pwm: 1313.00 motor4_pwm: 1308.00
+ ch_throttle: 1364
+Roll: -0.37 Pitch: 8.87 Yaw: -60.06 motor1_pwm: 1411.00 motor2_pwm: 1411.00 motor3_pwm: 1317.00 motor4_pwm: 1317.00
+ ch_throttle: 1364
+Roll: 0.00 Pitch: 8.87 Yaw: -59.75 motor1_pwm: 1394.00 motor2_pwm: 1394.00 motor3_pwm: 1334.00 motor4_pwm: 1352.00
+ ch_throttle: 1364
+Roll: -1.87 Pitch: 5.31 Yaw: -60.56 motor1_pwm: 1357.00 motor2_pwm: 1357.00 motor3_pwm: 1371.00 motor4_pwm: 1393.00
+ ch_throttle: 1364
+Roll: -3.56 Pitch: 2.68 Yaw: -61.50 motor1_pwm: 1320.00 motor2_pwm: 1320.00 motor3_pwm: 1408.00 motor4_pwm: 1408.00
+ ch_throttle: 1364
+Roll: -5.75 Pitch: -0.38 Yaw: -62.88 motor1_pwm: 1326.00 motor2_pwm: 1326.00 motor3_pwm: 1402.00 motor4_pwm: 1390.00
+ ch_throttle: 1364
+Roll: -5.50 Pitch: -0.38 Yaw: -63.19 motor1_pwm: 1383.00 motor2_pwm: 1383.00 motor3_pwm: 1345.00 motor4_pwm: 1345.00
+ ch_throttle: 1364
+Roll: -2.56 Pitch: 3.18 Yaw: -61.88 motor1_pwm: 1420.00 motor2_pwm: 1420.00 motor3_pwm: 1308.00 motor4_pwm: 1290.00
+ ch_throttle: 1364
+Roll: -0.06 Pitch: 5.93 Yaw: -60.50 motor1_pwm: 1449.00 motor2_pwm: 1449.00 motor3_pwm: 1279.00 motor4_pwm: 1279.00
+ ch_throttle: 1364
+Roll: 2.81 Pitch: 8.37 Yaw: -58.63 motor1_pwm: 1435.00 motor2_pwm: 1435.00 motor3_pwm: 1293.00 motor4_pwm: 1321.00
+ ch_throttle: 1364
+Roll: 1.56 Pitch: 4.75 Yaw: -59.19 motor1_pwm: 1372.00 motor2_pwm: 1372.00 motor3_pwm: 1356.00 motor4_pwm: 1356.00
+ ch_throttle: 1364
+Roll: -3.00 Pitch: -1.32 Yaw: -61.31 motor1_pwm: 1269.00 motor2_pwm: 1269.00 motor3_pwm: 1459.00 motor4_pwm: 1470.00
+ ch_throttle: 1364
+Roll: -6.44 Pitch: -5.25 Yaw: -63.38 motor1_pwm: 1271.00 motor2_pwm: 1271.00 motor3_pwm: 1457.00 motor4_pwm: 1457.00
+ ch_throttle: 1364
+Roll: -5.37 Pitch: -3.75 Yaw: -63.75 motor1_pwm: 1365.00 motor2_pwm: 1365.00 motor3_pwm: 1363.00 motor4_pwm: 1252.00
+ ch_throttle: 1247
+Roll: 1.87 Pitch: 6.81 Yaw: -60.25 motor1_pwm: 1373.00 motor2_pwm: 1373.00 motor3_pwm: 1121.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 6.06 Pitch: 12.87 Yaw: -57.56 motor1_pwm: 1130.00 motor2_pwm: 1130.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 7.31 Pitch: 15.37 Yaw: -56.06 motor1_pwm: 1051.00 motor2_pwm: 1051.00 motor3_pwm: 1000.00 motor4_pwm: 1007.00
+ ch_throttle: 1000
+Roll: 2.25 Pitch: 11.87 Yaw: -57.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1108.00 motor4_pwm: 1108.00
+ ch_throttle: 1000
+Roll: -2.94 Pitch: 7.06 Yaw: -60.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1072.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.31 Pitch: 6.37 Yaw: -59.75 motor1_pwm: 1070.00 motor2_pwm: 1070.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.69 Pitch: 8.62 Yaw: -57.81 motor1_pwm: 1040.00 motor2_pwm: 1040.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.94 Pitch: 9.56 Yaw: -56.81 motor1_pwm: 1054.00 motor2_pwm: 1054.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 1.87 Pitch: 8.31 Yaw: -56.94 motor1_pwm: 1023.00 motor2_pwm: 1023.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.94 Pitch: 6.12 Yaw: -57.88 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 3.75 Yaw: -58.94 motor1_pwm: 1013.00 motor2_pwm: 1013.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 2.75 Yaw: -58.94 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 2.37 Yaw: -58.38 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.88 Pitch: 2.31 Yaw: -57.94 motor1_pwm: 1009.00 motor2_pwm: 1009.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.75 Pitch: 1.81 Yaw: -58.00 motor1_pwm: 1003.00 motor2_pwm: 1003.00 motor3_pwm: 1000.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 1.12 Yaw: -58.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 0.87 Yaw: -58.13 motor1_pwm: 1002.00 motor2_pwm: 1002.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.62 Pitch: 0.81 Yaw: -58.00 motor1_pwm: 1003.00 motor2_pwm: 1003.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.56 Pitch: 1.06 Yaw: -58.06 motor1_pwm: 1002.00 motor2_pwm: 1002.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 1.75 Yaw: -58.44 motor1_pwm: 1001.00 motor2_pwm: 1001.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 2.43 Yaw: -58.63 motor1_pwm: 1004.00 motor2_pwm: 1004.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 3.31 Yaw: -58.69 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.37 Pitch: 3.81 Yaw: -58.56 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 4.06 Yaw: -58.25 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.31 Pitch: 3.75 Yaw: -58.38 motor1_pwm: 1010.00 motor2_pwm: 1010.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.25 Pitch: 2.93 Yaw: -58.56 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 2.06 Yaw: -58.44 motor1_pwm: 1003.00 motor2_pwm: 1003.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.00 Pitch: 1.31 Yaw: -58.50 motor1_pwm: 1002.00 motor2_pwm: 1002.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 1.31 Yaw: -58.44 motor1_pwm: 1001.00 motor2_pwm: 1001.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.00 Pitch: 1.50 Yaw: -58.13 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.06 Pitch: 2.06 Yaw: -57.50 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 2.50 Yaw: -56.81 motor1_pwm: 1006.00 motor2_pwm: 1006.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 2.50 Yaw: -55.88 motor1_pwm: 1005.00 motor2_pwm: 1005.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 2.18 Yaw: -55.44 motor1_pwm: 1005.00 motor2_pwm: 1005.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.19 Pitch: 1.62 Yaw: -55.31 motor1_pwm: 1005.00 motor2_pwm: 1005.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.13 Pitch: 0.87 Yaw: -55.50 motor1_pwm: 1002.00 motor2_pwm: 1002.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.00 Pitch: 0.12 Yaw: -55.88 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -0.69 Yaw: -56.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1002.00 motor4_pwm: 1003.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -1.32 Yaw: -56.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1003.00 motor4_pwm: 1002.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -1.75 Yaw: -56.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -2.07 Yaw: -56.75 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -2.19 Yaw: -56.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1006.00 motor4_pwm: 1006.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -2.19 Yaw: -56.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -2.00 Yaw: -56.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -1.69 Yaw: -56.13 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -1.19 Yaw: -56.00 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1003.00 motor4_pwm: 1002.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -0.69 Yaw: -56.00 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1002.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -0.32 Yaw: -56.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -0.07 Yaw: -56.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 0.12 Yaw: -56.38 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: 0.18 Yaw: -56.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: 0.18 Yaw: -56.75 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: 0.06 Yaw: -56.81 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.13 Yaw: -56.81 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.32 Yaw: -56.75 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.57 Yaw: -56.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.75 Yaw: -56.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.94 Yaw: -56.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1002.00 motor4_pwm: 1002.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.13 Yaw: -56.13 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1003.00 motor4_pwm: 1003.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.25 Yaw: -56.00 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1003.00 motor4_pwm: 1003.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.44 Yaw: -56.06 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.57 Yaw: -56.13 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.69 Yaw: -56.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.82 Yaw: -56.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.88 Yaw: -56.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.94 Yaw: -56.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.88 Yaw: -56.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.75 Yaw: -56.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.50 Yaw: -56.56 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1003.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.25 Yaw: -56.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1003.00 motor4_pwm: 1003.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.88 Yaw: -56.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.57 Yaw: -56.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.19 Yaw: -56.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: 0.06 Yaw: -56.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: 0.18 Yaw: -56.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: 0.25 Yaw: -56.38 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: 0.12 Yaw: -56.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.19 Yaw: -56.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.50 Yaw: -56.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.94 Yaw: -56.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1002.00 motor4_pwm: 1002.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.38 Yaw: -56.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1003.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.75 Yaw: -56.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -2.00 Yaw: -56.38 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -2.19 Yaw: -56.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1006.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -2.19 Yaw: -56.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1006.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -2.13 Yaw: -56.13 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -2.00 Yaw: -56.19 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1005.00 motor4_pwm: 1005.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.69 Yaw: -56.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1004.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -1.32 Yaw: -56.44 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1004.00 motor4_pwm: 1003.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.88 Yaw: -56.63 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1002.00 motor4_pwm: 1002.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.63 Yaw: -56.69 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.13 Pitch: -0.75 Yaw: -56.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1002.00 motor4_pwm: 1002.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: -1.38 Yaw: -56.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1001.00 motor4_pwm: 1001.00
+ ch_throttle: 1000
+Roll: -0.19 Pitch: -2.38 Yaw: -56.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1007.00 motor4_pwm: 1010.00
+ ch_throttle: 1000
+Roll: -0.25 Pitch: -3.44 Yaw: -56.25 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1011.00 motor4_pwm: 1010.00
+ ch_throttle: 1000
+Roll: -0.19 Pitch: -3.82 Yaw: -56.38 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1007.00 motor4_pwm: 1008.00
+ ch_throttle: 1000
+Roll: -0.25 Pitch: -3.57 Yaw: -56.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1011.00 motor4_pwm: 1012.00
+ ch_throttle: 1000
+Roll: -0.19 Pitch: -2.50 Yaw: -55.88 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1006.00 motor4_pwm: 1002.00
+ ch_throttle: 1000
+Roll: 0.00 Pitch: -1.00 Yaw: -55.50 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 1.87 Yaw: -55.31 motor1_pwm: 1000.00 motor2_pwm: 1000.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.06 Pitch: 4.12 Yaw: -55.44 motor1_pwm: 1012.00 motor2_pwm: 1012.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: 0.00 Pitch: 6.50 Yaw: -55.44 motor1_pwm: 1014.00 motor2_pwm: 1014.00 motor3_pwm: 1000.00 motor4_pwm: 1000.00
+ ch_throttle: 1000
+Roll: -0.06 Pitch: 9.50 Yaw: -54.56 motor1_pwm: 1008.00 motor2_pwm: 1008.00 motor3_pwm: 

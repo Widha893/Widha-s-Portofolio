@@ -1,0 +1,189 @@
+Protel Design System Design Rule Check
+PCB File : D:\electronics_training_kcci\part2\arduino_nano_min_sys\arduino_nano_v2.PcbDoc
+Date     : 8/22/2026
+Time     : 10:39:31 AM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetC4_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetC4_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetC1_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('MISO'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('MOSI'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_6'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_7'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_5'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetCLK_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetF1_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('D+'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=23.622mil) (Preferred=15.748mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=31.496mil) (Preferred=19.685mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=23.622mil) (Preferred=15.748mil) (InNet('+5V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=23.622mil) (Preferred=15.748mil) (InNet('3V3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=23.622mil) (Preferred=15.748mil) (InNet('VIN'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=23.622mil) (Preferred=15.748mil) (InNet('VUSB'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('D-'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=23.622mil) (Preferred=15.748mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNetClass('SIGNAL'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_8'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetR6_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetR7_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetR7_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetR2_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetR3_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetR6_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('PD0_RXD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('PD1_TXD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('RESET'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('PB5_SCK'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('PB6'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('PB7'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetPWR_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_9'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_13'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_2_5'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_12'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_11'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_1_10'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_2_10'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_2_11'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_2_12'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_2_7'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_2_8'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=11.811mil) (Preferred=10mil) (InNet('NetJ_NANO_2_9'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=3mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01

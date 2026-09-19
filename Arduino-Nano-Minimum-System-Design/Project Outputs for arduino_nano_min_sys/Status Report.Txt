@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [arduino_nano_min_sys.PrjPcb]
+   Generated File[arduino_nano_v3.TXT]
+   Generated File[arduino_nano_v3.LDP]
+   Generated File[arduino_nano_v3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:32:20 PM On 8/28/2026

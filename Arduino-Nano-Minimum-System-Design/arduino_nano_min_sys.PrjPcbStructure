@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=parent_schematic.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=parent_schematic.SchDoc|Designator=U_arduino_nano|SchDesignator=U_arduino_nano|FileName=arduino_nano.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=arduino_nano.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=parent_schematic.SchDoc|Designator=U_connector|SchDesignator=U_connector|FileName=connector.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=parent_schematic.SchDoc|Designator=U_USB|SchDesignator=U_USB|FileName=USB.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

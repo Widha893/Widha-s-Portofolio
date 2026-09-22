@@ -1,0 +1,6 @@
+../Core/Src/ui.c:22:6:UIProcessEvent	20
+../Core/Src/ui.c:90:6:OLEDDrawMainMenu	2
+../Core/Src/ui.c:121:6:OLEDDrawTempoConfig	3
+../Core/Src/ui.c:152:6:OLEDDrawFreqConfig	3
+../Core/Src/ui.c:183:6:OLEDDrawStart	2
+../Core/Src/ui.c:207:6:OLEDDrawUI	5

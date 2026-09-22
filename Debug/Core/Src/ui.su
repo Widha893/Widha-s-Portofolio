@@ -1,0 +1,6 @@
+../Core/Src/ui.c:22:6:UIProcessEvent	16	static
+../Core/Src/ui.c:90:6:OLEDDrawMainMenu	24	static
+../Core/Src/ui.c:121:6:OLEDDrawTempoConfig	24	static
+../Core/Src/ui.c:152:6:OLEDDrawFreqConfig	24	static
+../Core/Src/ui.c:183:6:OLEDDrawStart	32	static
+../Core/Src/ui.c:207:6:OLEDDrawUI	16	static
